@@ -1,4 +1,5 @@
-setuptoolsscanpy
+setuptools
+scanpy
 pandas
 numpy
 anndata
@@ -6,7 +7,7 @@ scipy
 matplotlib
 seaborn
 pyarrow
-streamlit==1.36.0
+streamlit
 networkx
 plotly
 scikit-learn
