@@ -1,0 +1,771 @@
+ligand,receptor,modality,target_cell,target_layer,score
+Nppb,Npr1,itch,Inhibitory Neuron,4,0.5939067519411793
+Nppb,Npr1,itch,Neuron (Subtype B),5/6,2.086317304191552
+Nppb,Npr1,itch,Neuron (Subtype A),9,0.4520731742721517
+Nppb,Npr1,itch,Neuron (Subtype B),4,0.38183635180860315
+Nppb,Npr1,itch,Neuron (Subtype C),7-IML,1.1782196453619844
+Nppb,Npr1,itch,Neuron (Subtype D),9,0.21995453598953194
+Nppb,Npr1,itch,Neuron (Subtype C),5/6,1.6360753353628679
+Nppb,Npr1,itch,Neuron (Subtype C),9,1.664968797140651
+Nppb,Npr1,itch,Neuron (Subtype E),9,0.1646911743257176
+Nppb,Npr1,itch,Neuron (Subtype A),5/6,2.356713064293234
+Nppb,Npr1,itch,Neuron (Subtype A),7/8,0.559664754057717
+Nppb,Npr1,itch,Inhibitory Neuron,2i/3 (1-4),0.5221149686976354
+Nppb,Npr1,itch,Endothelial,9,11.473902402884702
+Nppb,Npr1,itch,Neuron (Subtype B),6/7/8,0.8498442006021248
+Nppb,Npr1,itch,Neuron (Subtype B),1/2/3,17.189438485429157
+Nppb,Npr1,itch,Neuron (Subtype B),1/2o/2i,18.011690489761072
+Nppb,Npr1,itch,Neuron (Subtype B),1/2,19.801712648697748
+Nppb,Npr1,itch,Neuron (Subtype B),3/4,3.299402509542117
+Nppb,Npr1,itch,Neuron (Subtype B),1/2o/2i/3,7.390887357594398
+Nppb,Npr1,itch,Neuron (Subtype B),1/2o,10.548617716860692
+Nppb,Npr1,itch,Neuron (Subtype B),2i/3/4,8.363949363969674
+Nppb,Npr1,itch,Neuron (Subtype B),4/5/6,3.7137826328364527
+Nppb,Npr1,itch,Neuron (Subtype B),3 (1-5),43.046904612355455
+Nppb,Npr1,itch,Endothelial,1/2/3,158.07033107481828
+Nppb,Npr1,itch,Neuron (Subtype A),1/2o,192.77691680713923
+Grp,Grpr,itch,Neuron (Subtype H),7,0.4103227301695891
+Grp,Grpr,itch,Inhibitory Neuron,9,0.07901136800547746
+Grp,Grpr,itch,Neuron (Subtype C),7-IML,0.14760393581096545
+Grp,Grpr,itch,Neuron (Subtype C),9,0.1355976719100946
+Grp,Grpr,itch,Neuron (Subtype A),2i/3 (1-4),0.5635960013096324
+Grp,Grpr,itch,Neuron (Subtype H),9,0.2824541115320916
+Grp,Grpr,itch,Low Quality,9,0.06245783613771715
+Grp,Grpr,itch,Endothelial,5/6,0.1293698860771391
+Grp,Grpr,itch,Endothelial,7-IML,0.13798167634217942
+Grp,Grpr,itch,Neuron (Subtype H),5/6,1.309622748688719
+Grp,Grpr,itch,Neuron (Subtype B),1/2/3,0.20569420384353937
+Grp,Grpr,itch,Neuron (Subtype B),1/2o (2i-4),0.16957327316493018
+Grp,Grpr,itch,Neuron (Subtype B),1/2o,0.6405090544431159
+Grp,Grpr,itch,Neuron (Subtype B),2i/3,0.14762029600211093
+Grp,Grpr,itch,Low Quality,1/2o (2i-4),0.6574954638118127
+Grp,Grpr,itch,Endothelial,7/8,0.11800476486843844
+Grp,Grpr,itch,Neuron (Subtype H),7/8,0.10178098749358234
+Grp,Grpr,itch,Oligodendrocytes,7/8,0.12732060050187127
+Grp,Grpr,itch,Neuron (Subtype A),1/2o,1.3578161999445288
+Tac1,Tacr1,pain,Inhibitory Neuron,4,486.7118326815367
+Tac1,Tacr1,pain,Neuron (Subtype B),5/6,278.23502790441484
+Tac1,Tacr1,pain,Neuron (Subtype F),5/6,675.4666504138366
+Tac1,Tacr1,pain,Neuron (Subtype A),9,89.49482883836559
+Tac1,Tacr1,pain,Neuron (Subtype B),7,107.76658991421826
+Tac1,Tacr1,pain,Neuron (Subtype H),7,23.312215125215637
+Tac1,Tacr1,pain,Inhibitory Neuron,9,381.26027455168
+Tac1,Tacr1,pain,Neuron (Subtype B),4,46.12918118178244
+Tac1,Tacr1,pain,Neuron (Subtype C),7-IML,228.16594819718458
+Tac1,Tacr1,pain,Neuron (Subtype A),7,207.1126667175642
+Tac1,Tacr1,pain,Neuron (Subtype D),9,37.65246216184223
+Tac1,Tacr1,pain,Neuron (Subtype C),5/6,337.0257950632674
+Tac1,Tacr1,pain,Neuron (Subtype C),9,240.52236543929607
+Tac1,Tacr1,pain,Neuron (Subtype E),9,442.18267334064967
+Tac1,Tacr1,pain,Neuron (Subtype A),5/6,394.0824731766912
+Tac1,Tacr1,pain,Neuron (Subtype A),4,100.9901127116826
+Tac1,Tacr1,pain,Neuron (Subtype H),9,43.2705242699779
+Tac1,Tacr1,pain,Neuron (Subtype G),7-IML,106.53126191352521
+Tac1,Tacr1,pain,Neuron (Subtype F),9,478.8616566537193
+Tac1,Tacr1,pain,Neuron (Subtype B),9,119.27699834165992
+Tac1,Tacr1,pain,Inhibitory Neuron,7,384.0470149305322
+Tac1,Tacr1,pain,Neuron (Subtype A),7/8,171.988848267735
+Tac1,Tacr1,pain,Low Quality,5/6,231.6731027135613
+Tac1,Tacr1,pain,Neuron (Subtype G),9,143.3567554323541
+Tac1,Tacr1,pain,Neuron (Subtype F),4,307.25805227029366
+Tac1,Tacr1,pain,Neuron (Subtype F),7,656.9873373786867
+Tac1,Tacr1,pain,Ependymal,5/6,538.2195262368748
+Tac1,Tacr1,pain,Neuron (Subtype G),5/6,111.23264808348893
+Tac1,Tacr1,pain,Neuron (Subtype A),6/7/8,276.8924026182515
+Tac1,Tacr1,pain,Low Quality,9,44.34588468400039
+Tac1,Tacr1,pain,Neuron (Subtype B),med 5,158.17598565930015
+Tac1,Tacr1,pain,Neuron (Subtype C),6/7/8,301.97409523881066
+Tac1,Tacr1,pain,Endothelial,5/6,190.0360262163436
+Tac1,Tacr1,pain,Neuron (Subtype F),2i/3 (1-4),935.2664186670632
+Tac1,Tacr1,pain,Low Quality,7-IML,228.76052808247107
+Tac1,Tacr1,pain,Inhibitory Neuron,2i/3 (1-4),4.830606520431626
+Tac1,Tacr1,pain,Endothelial,7-IML,113.44085268347786
+Tac1,Tacr1,pain,Endothelial,9,49.42302627802805
+Tac1,Tacr1,pain,Inhibitory Neuron,6/7/8,376.37549828886563
+Tac1,Tacr1,pain,Neuron (Subtype F),6/7/8,561.3185304952633
+Tac1,Tacr1,pain,Neuron (Subtype B),1/2o (2i/3),59.961662015302274
+Tac1,Tacr1,pain,Oligodendrocytes,5/6,426.22613881982943
+Tac1,Tacr1,pain,Inhibitory Neuron,5/6,296.1198026719573
+Tac1,Tacr1,pain,OPC,5/6,497.4150946972726
+Tac1,Tacr1,pain,Neuron (Subtype B),6/7/8,182.22820555294376
+Tac1,Tacr1,pain,Low Quality,4,89.87895477067437
+Tac1,Tacr1,pain,Low Quality,7,1080.222173467317
+Tac1,Tacr1,pain,Endothelial,6/7/8,118.23384651806198
+Tac1,Tacr1,pain,Ependymal,6/7/8,232.15489866191027
+Tac1,Tacr1,pain,Neuron (Subtype H),6/7/8,283.61141765201245
+Tac1,Tacr1,pain,Neuron (Subtype B),3/4 (1/2o),31.574964234763517
+Tac1,Tacr1,pain,Neuron (Subtype B),1/2/3,94.12901998166865
+Tac1,Tacr1,pain,Neuron (Subtype B),1/2o (2i-4),9.821355164762949
+Tac1,Tacr1,pain,Neuron (Subtype B),1/2o/2i,38.102745364033694
+Tac1,Tacr1,pain,Neuron (Subtype B),3 (1-4),39.952323889302995
+Tac1,Tacr1,pain,Neuron (Subtype B),1/2,31.619669657471345
+Tac1,Tacr1,pain,Neuron (Subtype B),N/A,179.3584379502906
+Tac1,Tacr1,pain,Neuron (Subtype B),3/4,159.7518946372259
+Tac1,Tacr1,pain,Neuron (Subtype B),7/8,89.80632314054863
+Tac1,Tacr1,pain,Neuron (Subtype B),1/2o/2i/3,4.777469433168299
+Tac1,Tacr1,pain,Neuron (Subtype B),1/2o,46.328743118103624
+Tac1,Tacr1,pain,Neuron (Subtype B),2i/3/4,18.145750483851508
+Tac1,Tacr1,pain,Neuron (Subtype B),1-4,18.274718547974352
+Tac1,Tacr1,pain,Neuron (Subtype B),4/5,142.541496198293
+Tac1,Tacr1,pain,Neuron (Subtype B),4/5/6,279.31063945590495
+Tac1,Tacr1,pain,Neuron (Subtype B),2i/3,51.75066581267459
+Tac1,Tacr1,pain,Neuron (Subtype B),5,191.85164842634185
+Tac1,Tacr1,pain,Neuron (Subtype A),4/lat 5,666.4288998282758
+Tac1,Tacr1,pain,Endothelial,7/8,80.66982886955331
+Tac1,Tacr1,pain,Neuron (Subtype B),4/lat 5,451.9717627255092
+Tac1,Tacr1,pain,Neuron (Subtype B),4/med 5,421.2173117952612
+Tac1,Tacr1,pain,Neuron (Subtype A),3 (1-4),83.27446618778026
+Tac1,Tacr1,pain,Neuron (Subtype A),med 5,315.9952024023018
+Tac1,Tacr1,pain,Neuron (Subtype G),6/7/8,228.54650428615412
+Tac1,Tacr1,pain,Neuron (Subtype A),N/A,220.56495150330204
+Tac1,Tacr1,pain,Neuron (Subtype A),3/4 (1/2o),117.81388515142187
+Tac1,Tacr1,pain,Oligodendrocytes,7/8,338.9679743526189
+Tac1,Tacr1,pain,Inhibitory Neuron,3/4,192.5694531143066
+Tac1,Tacr1,pain,Neuron (Subtype C),4/lat 5,388.2036173823132
+Tac1,Tacr1,pain,Low Quality,1/2,568.8429509697302
+Tac1,Tacr1,pain,Endothelial,med 5,172.0863064727422
+Tac1,Tacr1,pain,Oligodendrocytes,7,121.67865603704007
+Tac1,Tacr1,pain,Neuron (Subtype A),4/5/6,554.9177626437217
+Tac1,Tacr1,pain,Oligodendrocytes,1/2/3,332.79521033857765
+Tac1,Tacr1,pain,Oligodendrocytes,4/med 5,909.3612027930279
+Tac1,Tacr1,pain,Neuron (Subtype A),3/4,400.2895099549185
+Tac1,Tacr1,pain,Neuron (Subtype H),4/lat 5,1010.344461073765
+Tac1,Tacr1,pain,Oligodendrocytes,N/A,865.8274584254646
+Tac1,Tacr1,pain,Oligodendrocytes,6/7/8,316.4858539285383
+Tac1,Tacr1,pain,Neuron (Subtype C),4/5/6,535.7143758624472
+Tac1,Tacr1,pain,Inhibitory Neuron,med 5,516.1179900228087
+Tac1,Tacr1,pain,Neuron (Subtype F),1/2o/4,856.0401559431879
+Tac1,Tacr1,pain,Neuron (Subtype A),1/2o,424.09478922457293
+Calca,Calcrl,pain,Inhibitory Neuron,4,31.196415012199598
+Calca,Calcrl,pain,Neuron (Subtype B),5/6,60.797696874536115
+Calca,Calcrl,pain,Neuron (Subtype F),5/6,133.07526134182123
+Calca,Calcrl,pain,Neuron (Subtype A),9,69.6129646033817
+Calca,Calcrl,pain,Neuron (Subtype B),7,28.38687100901318
+Calca,Calcrl,pain,Neuron (Subtype H),7,14.889914607064417
+Calca,Calcrl,pain,Inhibitory Neuron,9,39.859192451698014
+Calca,Calcrl,pain,Neuron (Subtype B),4,45.987910529319336
+Calca,Calcrl,pain,Neuron (Subtype C),7-IML,44.90742245445388
+Calca,Calcrl,pain,Neuron (Subtype A),7,14.464122906448198
+Calca,Calcrl,pain,Neuron (Subtype D),9,55.87740368858708
+Calca,Calcrl,pain,Neuron (Subtype C),5/6,43.68194395884088
+Calca,Calcrl,pain,Neuron (Subtype C),9,41.29964100689764
+Calca,Calcrl,pain,Neuron (Subtype E),9,195.7388598366069
+Calca,Calcrl,pain,Neuron (Subtype A),5/6,207.10718810537776
+Calca,Calcrl,pain,Neuron (Subtype A),4,117.6175974081424
+Calca,Calcrl,pain,Neuron (Subtype H),9,20.49899352741449
+Calca,Calcrl,pain,Neuron (Subtype G),7-IML,12.752757802405023
+Calca,Calcrl,pain,Neuron (Subtype F),9,100.03746258778415
+Calca,Calcrl,pain,Neuron (Subtype B),9,61.003972017525946
+Calca,Calcrl,pain,Inhibitory Neuron,7,38.007854782521754
+Calca,Calcrl,pain,Neuron (Subtype A),7/8,49.38333563638941
+Calca,Calcrl,pain,Neuron (Subtype G),9,31.55829647433159
+Calca,Calcrl,pain,Neuron (Subtype F),7,101.38394966293869
+Calca,Calcrl,pain,Neuron (Subtype A),6/7/8,79.45746529755898
+Calca,Calcrl,pain,Neuron (Subtype B),med 5,27.652407019773975
+Calca,Calcrl,pain,Inhibitory Neuron,2i/3 (1-4),93.86633498388815
+Calca,Calcrl,pain,Neuron (Subtype B),1/2o (2i/3),73.07120753859553
+Calca,Calcrl,pain,Neuron (Subtype B),6/7/8,64.0335845591818
+Calca,Calcrl,pain,Neuron (Subtype D),7,426.9391469052843
+Calca,Calcrl,pain,Endothelial,6/7/8,305.8853395414555
+Calca,Calcrl,pain,Neuron (Subtype B),1/2o/2i,187.4739213858436
+Calca,Calcrl,pain,Neuron (Subtype B),1/2o/4,59.43745807048523
+Calca,Calcrl,pain,Neuron (Subtype B),1/2,19.026944883345173
+Calca,Calcrl,pain,Neuron (Subtype B),N/A,173.95681342221152
+Calca,Calcrl,pain,Neuron (Subtype B),3/4,291.23074677355805
+Calca,Calcrl,pain,Neuron (Subtype B),7/8,12.141125564409831
+Calca,Calcrl,pain,Neuron (Subtype B),1/2o,152.80609592378548
+Calca,Calcrl,pain,Neuron (Subtype B),4/5/6,243.419385486672
+Calca,Calcrl,pain,Neuron (Subtype A),4/lat 5,342.8298246323278
+Calca,Calcrl,pain,Neuron (Subtype A),med 5,358.7594814981754
+Calca,Calcrl,pain,Neuron (Subtype A),4/5,314.00244097904886
+Calca,Calcrl,pain,Neuron (Subtype A),4/5/6,1078.799894498063
+Calca,Calcrl,pain,Oligodendrocytes,2i/3 (1-4),476.14620715609226
+Calca,Calcrl,pain,Neuron (Subtype A),3/4,928.443296248435
+Calca,Calcrl,pain,Neuron (Subtype H),4/lat 5,3033.3740241077326
+Calca,Ramp1,pain,Inhibitory Neuron,4,14.112166850089924
+Calca,Ramp1,pain,Neuron (Subtype B),5/6,9.611008776925594
+Calca,Ramp1,pain,Neuron (Subtype F),5/6,36.31233851027409
+Calca,Ramp1,pain,Neuron (Subtype A),9,440.9239820282267
+Calca,Ramp1,pain,Neuron (Subtype B),7,21.745301012360596
+Calca,Ramp1,pain,Inhibitory Neuron,9,172.9043311597796
+Calca,Ramp1,pain,Neuron (Subtype B),4,13.307728528167088
+Calca,Ramp1,pain,Neuron (Subtype C),7-IML,61.402114701645885
+Calca,Ramp1,pain,Neuron (Subtype A),7,20.02862760048599
+Calca,Ramp1,pain,Neuron (Subtype D),9,313.2764135726606
+Calca,Ramp1,pain,Neuron (Subtype C),5/6,78.38032961548528
+Calca,Ramp1,pain,Neuron (Subtype C),9,115.66891919700379
+Calca,Ramp1,pain,Neuron (Subtype E),9,262.5238384998681
+Calca,Ramp1,pain,Neuron (Subtype A),2i/3 (1-4),1256.097806442572
+Calca,Ramp1,pain,Neuron (Subtype A),5/6,59.01902416441321
+Calca,Ramp1,pain,Neuron (Subtype A),4,38.98391146515783
+Calca,Ramp1,pain,Neuron (Subtype H),9,21.635418927361446
+Calca,Ramp1,pain,Neuron (Subtype G),7-IML,101.42248665459451
+Calca,Ramp1,pain,Neuron (Subtype F),9,50.69790754163669
+Calca,Ramp1,pain,Neuron (Subtype B),9,129.53711398456852
+Calca,Ramp1,pain,Inhibitory Neuron,7,36.99216292375357
+Calca,Ramp1,pain,Neuron (Subtype A),7/8,14.876434863584834
+Calca,Ramp1,pain,Low Quality,5/6,211.15407932510539
+Calca,Ramp1,pain,Neuron (Subtype G),9,50.09248984318421
+Calca,Ramp1,pain,Ependymal,9,431.0458016969956
+Calca,Ramp1,pain,Neuron (Subtype A),6/7/8,22.010295138339828
+Calca,Ramp1,pain,Low Quality,9,67.68155013640715
+Calca,Ramp1,pain,Neuron (Subtype C),6/7/8,119.50573672107427
+Calca,Ramp1,pain,Inhibitory Neuron,2i/3 (1-4),4.557117966425775
+Calca,Ramp1,pain,Endothelial,4,522.898554684032
+Calca,Ramp1,pain,Endothelial,9,177.09023161803862
+Calca,Ramp1,pain,OPC,4,803.739512326092
+Calca,Ramp1,pain,Neuron (Subtype B),6/7/8,23.077977446765154
+Calca,Ramp1,pain,Neuron (Subtype B),1/2o (2i-4),20.90741478780815
+Calca,Ramp1,pain,Neuron (Subtype B),3 (1-4),23.8343202243294
+Calca,Ramp1,pain,Neuron (Subtype B),1/2,18.681248232123856
+Calca,Ramp1,pain,Neuron (Subtype B),N/A,16.586009393150245
+Calca,Ramp1,pain,Neuron (Subtype B),3/4,23.533428603003944
+Calca,Ramp1,pain,Neuron (Subtype B),1/2o,20.11733337311528
+Calca,Ramp1,pain,Neuron (Subtype B),1-4,41.79044793745296
+Calca,Ramp1,pain,Neuron (Subtype B),4/5,29.341282644870137
+Calca,Ramp1,pain,Neuron (Subtype A),4/lat 5,355.49145944496803
+Calca,Ramp1,pain,Neuron (Subtype A),3 (1-4),106.18510799991026
+Calca,Ramp1,pain,Astrocytes,9,1436.4774775559179
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,4,14.800900266500024
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),5/6,16.796856632963646
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype F),5/6,22.365122262238348
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),9,22.443969065259985
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),7,15.641264278110102
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype H),7,17.785775882228336
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,9,22.85675254645265
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),4,20.61712315645141
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),7-IML,21.76152248265119
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),7,27.350072159253635
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype D),9,17.71986386473123
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),5/6,19.95322172288216
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),9,25.521297031960117
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype E),9,28.653149061879205
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),2i/3 (1-4),49.83371186971403
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),5/6,23.983620545465488
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),4,29.89093095773518
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype H),9,21.09847662958925
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype G),7-IML,21.094033341616026
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype F),9,24.137342420003357
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),9,21.47160941029784
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,7,8.72308779644715
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),7/8,32.65265803024973
+Adcyap1,Adcyap1r1,pain,Low Quality,5/6,14.131518365131402
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype G),9,23.17320881417429
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype F),7,15.931176354435188
+Adcyap1,Adcyap1r1,pain,Ependymal,5/6,41.06234255879492
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype G),5/6,17.077366205884456
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),6/7/8,25.70861647051308
+Adcyap1,Adcyap1r1,pain,Low Quality,9,5.250766523623574
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),med 5,18.831897076544294
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),6/7/8,14.596363770562467
+Adcyap1,Adcyap1r1,pain,Endothelial,5/6,16.193456108615916
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype F),2i/3 (1-4),38.58792424173421
+Adcyap1,Adcyap1r1,pain,Low Quality,7-IML,15.059057679711053
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,2i/3 (1-4),7.783770912085793
+Adcyap1,Adcyap1r1,pain,Endothelial,7-IML,4.7038582699944405
+Adcyap1,Adcyap1r1,pain,Endothelial,4,61.066822575203666
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),4,108.25269456668356
+Adcyap1,Adcyap1r1,pain,Endothelial,9,6.839147642320367
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,6/7/8,12.762000767400334
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype F),6/7/8,23.042711624345216
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2o (2i/3),15.805056757307861
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,5/6,37.40191762793878
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),6/7/8,15.902429503475041
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype D),7,28.15534374436298
+Adcyap1,Adcyap1r1,pain,Endothelial,6/7/8,19.96722466320932
+Adcyap1,Adcyap1r1,pain,Ependymal,6/7/8,62.20162661785489
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),3/4 (1/2o),14.373499108582639
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2/3,1.7212759012629288
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2o (2i-4),13.883224748950669
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2o/2i,15.452905774083328
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,3/4 (1/2o),4.742584376461006
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),3 (1-4),16.048937057373198
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2o/4,18.84995835347094
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2,2.7323508857595527
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),2i (3/4),17.799902138275467
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),N/A,10.417074198922275
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),3/4,12.262302734724026
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),7/8,16.0867244821411
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2o/2i/3,20.872972631878365
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2o,22.695269390764636
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),2i/3/4,18.45783623078595
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1-4,7.820953561244792
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),4/5,10.53534144185802
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),4/5/6,15.65990119035612
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),2i/3,19.042818782626735
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),5,16.696186754173503
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),4/lat 5,50.8535237156051
+Adcyap1,Adcyap1r1,pain,Endothelial,7/8,11.68352486333918
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),4/lat 5,16.21830445031787
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),4/med 5,6.731933505735275
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),3 (1-4),31.038227393241268
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),med 5,51.572505609399904
+Adcyap1,Adcyap1r1,pain,Oligodendrocytes,3 (1-4),31.488403502681177
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),N/A,6.935260644824279
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),3/4 (1/2o),22.99589445906754
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype B),1/2o (3),27.225600344780613
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype H),7/8,43.881001470041795
+Adcyap1,Adcyap1r1,pain,Low Quality,1/2o/2i,72.86644813827913
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,7/8,65.9566557543474
+Adcyap1,Adcyap1r1,pain,Oligodendrocytes,7/8,10.770838667526437
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,3/4,17.121804105055094
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,N/A,8.007414648247359
+Adcyap1,Adcyap1r1,pain,Low Quality,1/2,75.06856731499838
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),4/5,11.109099675549276
+Adcyap1,Adcyap1r1,pain,Endothelial,med 5,15.520383943380393
+Adcyap1,Adcyap1r1,pain,Oligodendrocytes,7,35.44656124508848
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),1/2,24.13522615155856
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),4/5/6,52.67085108836709
+Adcyap1,Adcyap1r1,pain,Oligodendrocytes,2i/3 (1-4),9.377854960648882
+Adcyap1,Adcyap1r1,pain,Endothelial,1/2o/2i/3,54.74700602850674
+Adcyap1,Adcyap1r1,pain,Endothelial,1/2o (2i/3),68.40862170586563
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),3/4,15.037904502286473
+Adcyap1,Adcyap1r1,pain,Ependymal,1/2o/2i,119.96899846013223
+Adcyap1,Adcyap1r1,pain,Oligodendrocytes,2i/3/4,43.289584358131954
+Adcyap1,Adcyap1r1,pain,Excitatory Neuron,4/5,74.16187442566502
+Adcyap1,Adcyap1r1,pain,Endothelial,2i (3/4),69.09690356349124
+Adcyap1,Adcyap1r1,pain,Oligodendrocytes,6/7/8,20.57393686028213
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),4/5/6,55.60045327178672
+Adcyap1,Adcyap1r1,pain,Endothelial,1/2o,76.61202517453826
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,1/2o (2i/3),41.75724816141395
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype D),5/6,110.12214207737661
+Adcyap1,Adcyap1r1,pain,Inhibitory Neuron,1/2o/4,107.92385201102893
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype C),1-4,117.32322155167797
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),2i/3/4,54.9344496475804
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),1/2o (2i/3),100.22425832610048
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),1/2o,102.1623702850143
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),1/2o/2i/3,94.70352975946956
+Adcyap1,Adcyap1r1,pain,Neuron (Subtype A),1/2o/4,94.26514569940075
+Penk,Oprd1,modulatory,Inhibitory Neuron,4,1.4857286166277954
+Penk,Oprd1,modulatory,Neuron (Subtype B),5/6,0.6657456811292253
+Penk,Oprd1,modulatory,Neuron (Subtype F),5/6,0.8159682148494705
+Penk,Oprd1,modulatory,Neuron (Subtype A),9,0.36425673780399276
+Penk,Oprd1,modulatory,Neuron (Subtype B),7,1.0642203002397137
+Penk,Oprd1,modulatory,Neuron (Subtype H),7,0.07675245043610475
+Penk,Oprd1,modulatory,Inhibitory Neuron,9,1.4912474685455943
+Penk,Oprd1,modulatory,Neuron (Subtype B),4,0.330234559182752
+Penk,Oprd1,modulatory,Neuron (Subtype C),7-IML,0.15775775555879393
+Penk,Oprd1,modulatory,Neuron (Subtype A),7,2.819876592234536
+Penk,Oprd1,modulatory,Neuron (Subtype D),9,0.08088714162276037
+Penk,Oprd1,modulatory,Neuron (Subtype C),5/6,0.7081868220451936
+Penk,Oprd1,modulatory,Neuron (Subtype C),9,0.34624660127592793
+Penk,Oprd1,modulatory,Neuron (Subtype E),9,0.4679206289209933
+Penk,Oprd1,modulatory,Neuron (Subtype A),5/6,1.3892893150761725
+Penk,Oprd1,modulatory,Neuron (Subtype A),4,1.71866166640338
+Penk,Oprd1,modulatory,Neuron (Subtype H),9,0.09681618443849888
+Penk,Oprd1,modulatory,Neuron (Subtype G),7-IML,0.06301062707223512
+Penk,Oprd1,modulatory,Neuron (Subtype F),9,2.806153523257612
+Penk,Oprd1,modulatory,Neuron (Subtype B),9,0.2804241912992351
+Penk,Oprd1,modulatory,Inhibitory Neuron,7,0.9411672285228391
+Penk,Oprd1,modulatory,Neuron (Subtype A),7/8,4.323549424341681
+Penk,Oprd1,modulatory,Low Quality,5/6,1.0899837300007882
+Penk,Oprd1,modulatory,Neuron (Subtype F),7,1.9959157458475338
+Penk,Oprd1,modulatory,Neuron (Subtype A),6/7/8,2.0363690028468726
+Penk,Oprd1,modulatory,Low Quality,9,0.3371576331760592
+Penk,Oprd1,modulatory,Neuron (Subtype B),med 5,0.7549813160680386
+Penk,Oprd1,modulatory,Neuron (Subtype C),6/7/8,0.33692924212395664
+Penk,Oprd1,modulatory,Inhibitory Neuron,2i/3 (1-4),0.4240089952519702
+Penk,Oprd1,modulatory,Endothelial,7-IML,0.6956266295821051
+Penk,Oprd1,modulatory,Inhibitory Neuron,6/7/8,1.4049523908816628
+Penk,Oprd1,modulatory,Neuron (Subtype F),6/7/8,0.7834402134120597
+Penk,Oprd1,modulatory,Inhibitory Neuron,5/6,4.887257049410265
+Penk,Oprd1,modulatory,Neuron (Subtype B),6/7/8,0.7234672547147422
+Penk,Oprd1,modulatory,Neuron (Subtype D),7,3.7431627704056982
+Penk,Oprd1,modulatory,Neuron (Subtype B),3/4 (1/2o),0.18017658989256422
+Penk,Oprd1,modulatory,Neuron (Subtype B),1/2/3,0.4592308326635069
+Penk,Oprd1,modulatory,Neuron (Subtype B),1/2o (2i-4),0.7600457291571766
+Penk,Oprd1,modulatory,Neuron (Subtype B),1/2o/2i,0.38926714503869947
+Penk,Oprd1,modulatory,Neuron (Subtype B),3 (1-4),0.5454481312310412
+Penk,Oprd1,modulatory,Neuron (Subtype B),1/2o/4,0.27784306969386907
+Penk,Oprd1,modulatory,Neuron (Subtype B),1/2,0.48024221578867965
+Penk,Oprd1,modulatory,Neuron (Subtype B),2i (3/4),2.4253945758180935
+Penk,Oprd1,modulatory,Neuron (Subtype B),N/A,1.3408985172185712
+Penk,Oprd1,modulatory,Neuron (Subtype B),7/8,2.6213187379079765
+Penk,Oprd1,modulatory,Neuron (Subtype B),1/2o/2i/3,1.2717816710034864
+Penk,Oprd1,modulatory,Neuron (Subtype B),1/2o,1.2553177971682423
+Penk,Oprd1,modulatory,Neuron (Subtype B),2i/3/4,0.07640507936649711
+Penk,Oprd1,modulatory,Neuron (Subtype B),1-4,0.0960079899069174
+Penk,Oprd1,modulatory,Neuron (Subtype B),4/5,0.7661351359914226
+Penk,Oprd1,modulatory,Neuron (Subtype B),4/5/6,1.2495389069204432
+Penk,Oprd1,modulatory,Neuron (Subtype B),2i/3,0.11421985081130366
+Penk,Oprd1,modulatory,Neuron (Subtype A),4/lat 5,2.8970213665322477
+Penk,Oprd1,modulatory,Endothelial,7/8,1.4485314418021524
+Penk,Oprd1,modulatory,Neuron (Subtype B),4/lat 5,1.8826447036875305
+Penk,Oprd1,modulatory,Neuron (Subtype B),4/med 5,0.21900841183412204
+Penk,Oprd1,modulatory,Neuron (Subtype A),3 (1-4),1.749811561498918
+Penk,Oprd1,modulatory,Neuron (Subtype A),med 5,1.4574241836608353
+Penk,Oprd1,modulatory,Neuron (Subtype A),N/A,2.69316031613706
+Penk,Oprd1,modulatory,Neuron (Subtype H),7/8,2.836687238301872
+Penk,Oprd1,modulatory,Inhibitory Neuron,7/8,3.2156231644943767
+Penk,Oprd1,modulatory,Oligodendrocytes,7/8,2.982574137258734
+Penk,Oprd1,modulatory,Inhibitory Neuron,3/4,1.1163268791736354
+Penk,Oprd1,modulatory,Neuron (Subtype D),7/8,2.0697926583267554
+Penk,Oprd1,modulatory,Inhibitory Neuron,N/A,0.9900143101414096
+Penk,Oprd1,modulatory,Low Quality,1/2,8.596891375423528
+Penk,Oprd1,modulatory,Neuron (Subtype A),4/5,1.4403321667209357
+Penk,Oprd1,modulatory,Oligodendrocytes,7,4.723193456604413
+Penk,Oprd1,modulatory,Neuron (Subtype A),4/5/6,4.753590929163725
+Penk,Oprd1,modulatory,Neuron (Subtype A),3/4,1.7893763305530308
+Penk,Oprd1,modulatory,Oligodendrocytes,6/7/8,5.0041019695943785
+Penk,Oprd1,modulatory,Neuron (Subtype C),4/5/6,7.813727747494658
+Penk,Oprd1,modulatory,Neuron (Subtype A),1/2o,5.615140172810717
+Penk,Oprm1,modulatory,Inhibitory Neuron,4,7.026733719804356
+Penk,Oprm1,modulatory,Neuron (Subtype B),5/6,3.2039911317547993
+Penk,Oprm1,modulatory,Neuron (Subtype F),5/6,0.5689817749018107
+Penk,Oprm1,modulatory,Neuron (Subtype A),9,3.815534933325585
+Penk,Oprm1,modulatory,Neuron (Subtype B),7,4.500062890099084
+Penk,Oprm1,modulatory,Neuron (Subtype H),7,1.6226865357983131
+Penk,Oprm1,modulatory,Inhibitory Neuron,9,7.281292842051538
+Penk,Oprm1,modulatory,Neuron (Subtype B),4,6.0545356439757105
+Penk,Oprm1,modulatory,Neuron (Subtype C),7-IML,2.16789193501162
+Penk,Oprm1,modulatory,Neuron (Subtype A),7,7.354636866531051
+Penk,Oprm1,modulatory,Neuron (Subtype D),9,1.3842761688495147
+Penk,Oprm1,modulatory,Neuron (Subtype C),5/6,1.9579900417635627
+Penk,Oprm1,modulatory,Neuron (Subtype C),9,2.621788521921442
+Penk,Oprm1,modulatory,Neuron (Subtype E),9,0.7066028804166681
+Penk,Oprm1,modulatory,Neuron (Subtype A),2i/3 (1-4),9.358660453571318
+Penk,Oprm1,modulatory,Neuron (Subtype A),5/6,5.3148685864505945
+Penk,Oprm1,modulatory,Neuron (Subtype A),4,10.11320112561503
+Penk,Oprm1,modulatory,Neuron (Subtype H),9,1.980098480035583
+Penk,Oprm1,modulatory,Neuron (Subtype G),7-IML,1.2462131666352227
+Penk,Oprm1,modulatory,Neuron (Subtype F),9,0.38628279183087866
+Penk,Oprm1,modulatory,Neuron (Subtype B),9,2.6300213922953493
+Penk,Oprm1,modulatory,Inhibitory Neuron,7,4.646134348897656
+Penk,Oprm1,modulatory,Neuron (Subtype A),7/8,7.047116085153866
+Penk,Oprm1,modulatory,Low Quality,5/6,1.0994202604959242
+Penk,Oprm1,modulatory,Neuron (Subtype G),9,1.8052469180026223
+Penk,Oprm1,modulatory,Neuron (Subtype F),4,4.1517148094707945
+Penk,Oprm1,modulatory,Neuron (Subtype F),7,3.372114631519157
+Penk,Oprm1,modulatory,Ependymal,9,2.1316507088301435
+Penk,Oprm1,modulatory,Ependymal,5/6,2.102927931394223
+Penk,Oprm1,modulatory,Neuron (Subtype G),5/6,3.0231861515616565
+Penk,Oprm1,modulatory,Neuron (Subtype A),6/7/8,5.967933592383805
+Penk,Oprm1,modulatory,Low Quality,9,3.7330406046643354
+Penk,Oprm1,modulatory,Neuron (Subtype B),med 5,4.928359785270561
+Penk,Oprm1,modulatory,Neuron (Subtype C),6/7/8,4.87852413342508
+Penk,Oprm1,modulatory,Endothelial,5/6,0.774305611104337
+Penk,Oprm1,modulatory,Neuron (Subtype F),2i/3 (1-4),4.402978490744574
+Penk,Oprm1,modulatory,Low Quality,7-IML,4.23769008457191
+Penk,Oprm1,modulatory,Inhibitory Neuron,2i/3 (1-4),8.652982405995497
+Penk,Oprm1,modulatory,Endothelial,7-IML,0.6646585250635827
+Penk,Oprm1,modulatory,Neuron (Subtype C),4,9.703454885149982
+Penk,Oprm1,modulatory,Neuron (Subtype B),7-IML,2.8481886307548505
+Penk,Oprm1,modulatory,Endothelial,9,0.8642943472756257
+Penk,Oprm1,modulatory,Inhibitory Neuron,6/7/8,6.050765287187499
+Penk,Oprm1,modulatory,Neuron (Subtype F),6/7/8,3.1703987528932287
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2o (2i/3),4.002384969626385
+Penk,Oprm1,modulatory,OPC,4,3.8523512147584515
+Penk,Oprm1,modulatory,Oligodendrocytes,9,3.6746798926583377
+Penk,Oprm1,modulatory,Inhibitory Neuron,5/6,5.589691028381758
+Penk,Oprm1,modulatory,OPC,5/6,7.156503710215334
+Penk,Oprm1,modulatory,Neuron (Subtype B),6/7/8,4.315769598977359
+Penk,Oprm1,modulatory,Low Quality,4,6.3258484337144125
+Penk,Oprm1,modulatory,Endothelial,7,1.5980501751195986
+Penk,Oprm1,modulatory,Neuron (Subtype D),7,4.184866217028369
+Penk,Oprm1,modulatory,Low Quality,7,18.154107760931605
+Penk,Oprm1,modulatory,Low Quality,6/7/8,8.52622315471095
+Penk,Oprm1,modulatory,Endothelial,6/7/8,3.063008072032998
+Penk,Oprm1,modulatory,Ependymal,6/7/8,9.009251114541422
+Penk,Oprm1,modulatory,Neuron (Subtype H),6/7/8,6.781178540220628
+Penk,Oprm1,modulatory,Oligodendrocytes,1/2o (2i-4),4.034197846159954
+Penk,Oprm1,modulatory,Neuron (Subtype B),3/4 (1/2o),5.938106108819826
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2/3,3.4408424044232206
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2o (2i-4),0.17956045922462832
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2o/2i,4.310819278031843
+Penk,Oprm1,modulatory,Inhibitory Neuron,3/4 (1/2o),6.236687760023711
+Penk,Oprm1,modulatory,Neuron (Subtype B),3 (1-4),4.676680329317509
+Penk,Oprm1,modulatory,Endothelial,1/2o/2i,1.7913040568221594
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2o/4,5.389063012758436
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2,4.835285359321195
+Penk,Oprm1,modulatory,Neuron (Subtype B),2i (3/4),4.72601944285696
+Penk,Oprm1,modulatory,Neuron (Subtype B),N/A,3.62415301518622
+Penk,Oprm1,modulatory,Neuron (Subtype B),3/4,3.607992963963144
+Penk,Oprm1,modulatory,Neuron (Subtype B),7/8,4.625862965777364
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2o/2i/3,8.039055856295102
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2o,1.158181921366652
+Penk,Oprm1,modulatory,Neuron (Subtype B),2i/3/4,4.073642954702225
+Penk,Oprm1,modulatory,Neuron (Subtype B),1-4,13.184322157402242
+Penk,Oprm1,modulatory,Neuron (Subtype B),4/5,3.7499934099567556
+Penk,Oprm1,modulatory,Neuron (Subtype B),4/5/6,7.459752013090349
+Penk,Oprm1,modulatory,Oligodendrocytes,1-4,19.319490892029286
+Penk,Oprm1,modulatory,Neuron (Subtype B),3 (1-5),1.194526577344137
+Penk,Oprm1,modulatory,Neuron (Subtype B),2i/3,7.675337830689663
+Penk,Oprm1,modulatory,Neuron (Subtype B),5,2.018579074391109
+Penk,Oprm1,modulatory,Neuron (Subtype A),4/lat 5,5.282050177484715
+Penk,Oprm1,modulatory,Endothelial,7/8,0.8200551746209496
+Penk,Oprm1,modulatory,Neuron (Subtype B),4/lat 5,3.4744816782477304
+Penk,Oprm1,modulatory,Neuron (Subtype B),4/med 5,6.542163877442157
+Penk,Oprm1,modulatory,Neuron (Subtype A),3 (1-4),7.0734849950909515
+Penk,Oprm1,modulatory,Neuron (Subtype A),med 5,4.992311884454705
+Penk,Oprm1,modulatory,Neuron (Subtype G),6/7/8,2.1637216290020027
+Penk,Oprm1,modulatory,Oligodendrocytes,3 (1-4),4.8411098393394525
+Penk,Oprm1,modulatory,Neuron (Subtype A),N/A,5.487056499511179
+Penk,Oprm1,modulatory,Neuron (Subtype A),3/4 (1/2o),4.724860568093169
+Penk,Oprm1,modulatory,Neuron (Subtype B),1/2o (3),2.1020675750317395
+Penk,Oprm1,modulatory,Neuron (Subtype H),7/8,0.5825036903192641
+Penk,Oprm1,modulatory,Inhibitory Neuron,7/8,5.6737107618565625
+Penk,Oprm1,modulatory,Oligodendrocytes,7/8,6.210753169534063
+Penk,Oprm1,modulatory,Inhibitory Neuron,3/4,10.25045813202785
+Penk,Oprm1,modulatory,Neuron (Subtype D),7/8,4.854830670073787
+Penk,Oprm1,modulatory,Inhibitory Neuron,N/A,3.2158085189649386
+Penk,Oprm1,modulatory,Neuron (Subtype C),4/lat 5,5.572381111060947
+Penk,Oprm1,modulatory,Oligodendrocytes,4,15.081152670323396
+Penk,Oprm1,modulatory,Neuron (Subtype B),2i/3 (1-4),4.729561096731716
+Penk,Oprm1,modulatory,Low Quality,1/2,8.213512012956025
+Penk,Oprm1,modulatory,Neuron (Subtype A),4/5,5.961058664464572
+Penk,Oprm1,modulatory,Oligodendrocytes,1/2,5.840862774143816
+Penk,Oprm1,modulatory,Ependymal,4,6.541222302053452
+Penk,Oprm1,modulatory,Neuron (Subtype D),6/7/8,5.318034984633372
+Penk,Oprm1,modulatory,Endothelial,med 5,2.8670035892333154
+Penk,Oprm1,modulatory,Oligodendrocytes,7,2.3635793458061993
+Penk,Oprm1,modulatory,Neuron (Subtype F),3/4 (1/2o),14.774539978260085
+Penk,Oprm1,modulatory,Neuron (Subtype C),med 5,3.978774100032667
+Penk,Oprm1,modulatory,Neuron (Subtype A),4/5/6,10.5551052447643
+Penk,Oprm1,modulatory,Oligodendrocytes,2i/3 (1-4),7.292974497425381
+Penk,Oprm1,modulatory,Oligodendrocytes,1/2/3,5.734831625186785
+Penk,Oprm1,modulatory,Endothelial,1/2o/2i/3,7.846820237247076
+Penk,Oprm1,modulatory,Oligodendrocytes,4/med 5,15.282635067678042
+Penk,Oprm1,modulatory,Ependymal,7/8,7.790153578701506
+Penk,Oprm1,modulatory,Neuron (Subtype A),3/4,4.5151508977668415
+Penk,Oprm1,modulatory,Neuron (Subtype H),4/lat 5,16.979749788989544
+Penk,Oprm1,modulatory,Ependymal,3 (1-4),16.57477890437589
+Penk,Oprm1,modulatory,Oligodendrocytes,N/A,18.397684683258568
+Penk,Oprm1,modulatory,Endothelial,2i (3/4),9.18984673630403
+Penk,Oprm1,modulatory,Oligodendrocytes,6/7/8,5.194819753057811
+Penk,Oprm1,modulatory,Inhibitory Neuron,1/2o (2i/3),5.5210156762367575
+Penk,Oprm1,modulatory,Endothelial,3/4 (1/2o),18.966298848671713
+Penk,Oprm1,modulatory,Oligodendrocytes,1/2o/2i,18.548694970653468
+Penk,Oprm1,modulatory,OPC,2i/3 (1-4),18.161044499674258
+Penk,Oprm1,modulatory,Neuron (Subtype C),3/4,15.00506723710655
+Penk,Oprm1,modulatory,Ependymal,1/2/3,18.224268084843466
+Penk,Oprm1,modulatory,Inhibitory Neuron,1/2o/2i,14.30783046526
+Penk,Oprm1,modulatory,Neuron (Subtype D),5/6,14.023961966981332
+Penk,Oprm1,modulatory,Excitatory Neuron,7/8,7.720216078613727
+Penk,Oprm1,modulatory,Neuron (Subtype A),2i/3/4,13.124380050581431
+Penk,Oprm1,modulatory,Neuron (Subtype A),1/2o (2i/3),12.763474814597695
+Penk,Oprm1,modulatory,Neuron (Subtype A),1/2o/2i/3,12.060414685290919
+Penk,Oprm1,modulatory,Neuron (Subtype A),1/2o/4,16.45349452692609
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,4,0.26683768964970495
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),5/6,0.10293725779314701
+Pdyn,Oprk1,modulatory,Neuron (Subtype F),5/6,0.438582636716091
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),7,0.1377072771280078
+Pdyn,Oprk1,modulatory,Neuron (Subtype H),7,0.6110266649252056
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,9,0.2857966538313719
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),4,0.21336622680983341
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),7,0.13828318581665125
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),2i/3 (1-4),0.28408309616403193
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),5/6,0.17355657245568581
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),4,0.33621815033113595
+Pdyn,Oprk1,modulatory,Neuron (Subtype H),9,0.678789463010173
+Pdyn,Oprk1,modulatory,Neuron (Subtype G),7-IML,0.05684206251737509
+Pdyn,Oprk1,modulatory,Neuron (Subtype F),9,0.750621603210066
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),9,0.08336086483024811
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,7,0.306396216309129
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),7/8,0.09349155610538253
+Pdyn,Oprk1,modulatory,Neuron (Subtype G),9,0.07350283970528865
+Pdyn,Oprk1,modulatory,Neuron (Subtype F),4,0.3917191758021806
+Pdyn,Oprk1,modulatory,Neuron (Subtype F),7,0.42985626837120733
+Pdyn,Oprk1,modulatory,Neuron (Subtype G),5/6,0.05797861293587276
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),6/7/8,0.09420520290258433
+Pdyn,Oprk1,modulatory,Low Quality,9,0.06053194825750703
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),med 5,0.11605441548400826
+Pdyn,Oprk1,modulatory,Neuron (Subtype F),2i/3 (1-4),0.44678136903926463
+Pdyn,Oprk1,modulatory,Neuron (Subtype C),4,0.8242345010933623
+Pdyn,Oprk1,modulatory,Neuron (Subtype H),4,1.2399080578103998
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,6/7/8,0.2765996671489334
+Pdyn,Oprk1,modulatory,Neuron (Subtype F),6/7/8,0.14200093230624503
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),1/2o (2i/3),0.14654763174831492
+Pdyn,Oprk1,modulatory,OPC,4,0.4320781092944917
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,5/6,0.44087662761461655
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),6/7/8,0.09512160065575519
+Pdyn,Oprk1,modulatory,Low Quality,4,0.13733062522686054
+Pdyn,Oprk1,modulatory,Neuron (Subtype H),2i/3 (1-4),0.7378187293370871
+Pdyn,Oprk1,modulatory,Endothelial,6/7/8,0.09145733488221733
+Pdyn,Oprk1,modulatory,Neuron (Subtype H),6/7/8,0.39810855647096066
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),1/2o/2i,0.06340255385900243
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,3/4 (1/2o),0.06011510317641555
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),3 (1-4),0.07579225983464088
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),N/A,0.13975844838146848
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),7/8,0.06886264338261489
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),1/2o/2i/3,0.1046113725617254
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),2i/3/4,0.08269252670518258
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),4/5,0.1786558283741673
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),4/5/6,0.16217407252615332
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),5,0.39381927930207256
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),4/lat 5,0.4352707737513341
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),4/lat 5,0.05949187994876886
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),4/med 5,0.0828065846869542
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),3 (1-4),0.09248311127375244
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),med 5,0.16906883930134908
+Pdyn,Oprk1,modulatory,Neuron (Subtype G),6/7/8,0.18924166034885906
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),N/A,0.1643639037409133
+Pdyn,Oprk1,modulatory,Neuron (Subtype B),1/2o (3),0.17001435688771913
+Pdyn,Oprk1,modulatory,Neuron (Subtype H),7/8,0.4678881883255131
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,7/8,0.25287631042526953
+Pdyn,Oprk1,modulatory,Endothelial,10,0.5281236690434351
+Pdyn,Oprk1,modulatory,Oligodendrocytes,7/8,0.06916368912859981
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,3/4,0.20514547625564
+Pdyn,Oprk1,modulatory,Neuron (Subtype D),7/8,0.37484799984420947
+Pdyn,Oprk1,modulatory,Inhibitory Neuron,N/A,0.2143804301324501
+Pdyn,Oprk1,modulatory,Oligodendrocytes,med 5,1.4768416238981028
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),4/5,0.11776277662127806
+Pdyn,Oprk1,modulatory,Ependymal,4,1.3352022779782575
+Pdyn,Oprk1,modulatory,Oligodendrocytes,7,0.21440367946405972
+Pdyn,Oprk1,modulatory,Neuron (Subtype A),4/5/6,0.2421915225344923
+Pdyn,Oprk1,modulatory,Neuron (Subtype C),4/5/6,0.7104047192115168
+Pdyn,Oprk1,modulatory,OPC,1/2o/2i,1.533454077449632
+Sst,Sstr1,modulatory,Inhibitory Neuron,4,4.7546022825863865
+Sst,Sstr1,modulatory,Neuron (Subtype B),5/6,2.8695112410030363
+Sst,Sstr1,modulatory,Neuron (Subtype F),5/6,3.2911035850717547
+Sst,Sstr1,modulatory,Neuron (Subtype A),9,9.529295736868827
+Sst,Sstr1,modulatory,Neuron (Subtype B),7,0.7130120441770708
+Sst,Sstr1,modulatory,Neuron (Subtype H),7,1.028049891991022
+Sst,Sstr1,modulatory,Inhibitory Neuron,9,2.7042457586933213
+Sst,Sstr1,modulatory,Neuron (Subtype B),4,1.0899731794534717
+Sst,Sstr1,modulatory,Neuron (Subtype C),7-IML,0.9851089537620586
+Sst,Sstr1,modulatory,Neuron (Subtype A),7,1.2962461044433884
+Sst,Sstr1,modulatory,Neuron (Subtype D),9,9.900237683851786
+Sst,Sstr1,modulatory,Neuron (Subtype C),5/6,2.917650368321103
+Sst,Sstr1,modulatory,Neuron (Subtype C),9,2.5974765475165
+Sst,Sstr1,modulatory,Neuron (Subtype E),9,0.724519021025105
+Sst,Sstr1,modulatory,Neuron (Subtype A),5/6,4.414790856604952
+Sst,Sstr1,modulatory,Neuron (Subtype A),4,2.779312537010076
+Sst,Sstr1,modulatory,Neuron (Subtype H),9,1.4487190353157386
+Sst,Sstr1,modulatory,Neuron (Subtype F),9,5.368423435728759
+Sst,Sstr1,modulatory,Neuron (Subtype B),9,2.794290243679727
+Sst,Sstr1,modulatory,Inhibitory Neuron,7,5.67426811246716
+Sst,Sstr1,modulatory,Neuron (Subtype A),7/8,0.7017267198034273
+Sst,Sstr1,modulatory,Neuron (Subtype A),6/7/8,0.8564760820844411
+Sst,Sstr1,modulatory,Neuron (Subtype B),med 5,0.8619625992841794
+Sst,Sstr1,modulatory,Endothelial,9,5.433528568301026
+Sst,Sstr1,modulatory,Neuron (Subtype B),6/7/8,0.9129888877478142
+Sst,Sstr1,modulatory,Neuron (Subtype B),1/2o (2i-4),0.5911388764946394
+Sst,Sstr1,modulatory,Neuron (Subtype B),1/2o/2i,0.7958296442979824
+Sst,Sstr1,modulatory,Neuron (Subtype B),1/2,0.7820410486492139
+Sst,Sstr1,modulatory,Neuron (Subtype B),N/A,2.841866957146497
+Sst,Sstr1,modulatory,Neuron (Subtype B),3/4,1.5468228907938926
+Sst,Sstr1,modulatory,Neuron (Subtype B),7/8,0.779520711450151
+Sst,Sstr1,modulatory,Neuron (Subtype B),1/2o/2i/3,7.08540092061788
+Sst,Sstr1,modulatory,Neuron (Subtype B),2i/3,1.5468395881060222
+Sst,Sstr1,modulatory,Neuron (Subtype A),3 (1-4),2.256140849102882
+Sst,Sstr1,modulatory,Neuron (Subtype A),med 5,19.73738722241946
+Sst,Sstr1,modulatory,Neuron (Subtype F),3/4 (1/2o),200.0864400723423
+Sst,Sstr1,modulatory,Oligodendrocytes,1/2o/4,191.20105501938406
+Sst,Sstr2,modulatory,Inhibitory Neuron,4,5.712293751440808
+Sst,Sstr2,modulatory,Neuron (Subtype B),5/6,5.927074831149413
+Sst,Sstr2,modulatory,Neuron (Subtype F),5/6,4.60180361666465
+Sst,Sstr2,modulatory,Neuron (Subtype A),9,5.234044484263176
+Sst,Sstr2,modulatory,Neuron (Subtype B),7,3.470722573025986
+Sst,Sstr2,modulatory,Neuron (Subtype H),7,5.219637789036081
+Sst,Sstr2,modulatory,Inhibitory Neuron,9,10.502278659868852
+Sst,Sstr2,modulatory,Neuron (Subtype B),4,3.0419440931763733
+Sst,Sstr2,modulatory,Neuron (Subtype C),7-IML,7.740714471532007
+Sst,Sstr2,modulatory,Neuron (Subtype A),7,7.18379046242897
+Sst,Sstr2,modulatory,Neuron (Subtype D),9,3.4116998113332184
+Sst,Sstr2,modulatory,Neuron (Subtype C),5/6,9.597048237809057
+Sst,Sstr2,modulatory,Neuron (Subtype C),9,10.544302463446703
+Sst,Sstr2,modulatory,Neuron (Subtype E),9,6.673680833164428
+Sst,Sstr2,modulatory,Neuron (Subtype A),5/6,3.639506356347831
+Sst,Sstr2,modulatory,Neuron (Subtype A),4,5.473551551630473
+Sst,Sstr2,modulatory,Neuron (Subtype H),9,1.5181229719996543
+Sst,Sstr2,modulatory,Neuron (Subtype G),7-IML,13.49958004867241
+Sst,Sstr2,modulatory,Neuron (Subtype F),9,4.28714949566765
+Sst,Sstr2,modulatory,Neuron (Subtype B),9,4.530246414640585
+Sst,Sstr2,modulatory,Inhibitory Neuron,7,2.6652071622075666
+Sst,Sstr2,modulatory,Neuron (Subtype A),7/8,5.8441280572663254
+Sst,Sstr2,modulatory,Neuron (Subtype G),9,17.596171528931354
+Sst,Sstr2,modulatory,Ependymal,5/6,22.881426304091086
+Sst,Sstr2,modulatory,Neuron (Subtype A),6/7/8,6.340090944152591
+Sst,Sstr2,modulatory,Low Quality,9,4.566008191434655
+Sst,Sstr2,modulatory,Neuron (Subtype B),med 5,4.540871946745384
+Sst,Sstr2,modulatory,Neuron (Subtype C),6/7/8,8.703314565697319
+Sst,Sstr2,modulatory,Low Quality,7-IML,12.19754885861336
+Sst,Sstr2,modulatory,Inhibitory Neuron,2i/3 (1-4),1.47716170275468
+Sst,Sstr2,modulatory,Endothelial,9,8.444370328466045
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2o (2i/3),17.571559883657567
+Sst,Sstr2,modulatory,Neuron (Subtype B),6/7/8,2.666858767963555
+Sst,Sstr2,modulatory,Neuron (Subtype H),2i/3 (1-4),96.8957175717502
+Sst,Sstr2,modulatory,Neuron (Subtype B),3/4 (1/2o),9.713068751539142
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2o (2i-4),0.6158417718307375
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2o/2i,18.65019717423157
+Sst,Sstr2,modulatory,Neuron (Subtype B),3 (1-4),3.115054041265939
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2o/4,11.425455455430429
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2,1.4651146788348883
+Sst,Sstr2,modulatory,Neuron (Subtype B),2i (3/4),2.973348045682438
+Sst,Sstr2,modulatory,Neuron (Subtype B),N/A,1.3965776771005314
+Sst,Sstr2,modulatory,Neuron (Subtype B),7/8,4.201877508933135
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2o/2i/3,33.04366038209829
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2o,1.3372378061871883
+Sst,Sstr2,modulatory,Neuron (Subtype B),2i/3/4,4.213309543600001
+Sst,Sstr2,modulatory,Neuron (Subtype B),1-4,11.30255772185
+Sst,Sstr2,modulatory,Neuron (Subtype B),4/5,8.745722619895057
+Sst,Sstr2,modulatory,Neuron (Subtype B),4/5/6,3.8264072505318354
+Sst,Sstr2,modulatory,Oligodendrocytes,1/2o/2i/3,120.01929165809759
+Sst,Sstr2,modulatory,Neuron (Subtype B),3 (1-5),21.901126207471545
+Sst,Sstr2,modulatory,Neuron (Subtype B),2i/3,1.903217650765686
+Sst,Sstr2,modulatory,Endothelial,7/8,9.413019238078565
+Sst,Sstr2,modulatory,Neuron (Subtype B),4/lat 5,10.203437027734406
+Sst,Sstr2,modulatory,Neuron (Subtype A),med 5,21.404343115860677
+Sst,Sstr2,modulatory,Oligodendrocytes,3 (1-4),18.762851632414772
+Sst,Sstr2,modulatory,Neuron (Subtype B),1/2o (3),50.33490732829353
+Sst,Sstr2,modulatory,Oligodendrocytes,7/8,18.033020995049295
+Sst,Sstr2,modulatory,Neuron (Subtype D),7/8,29.74462360353217
+Sst,Sstr2,modulatory,Endothelial,med 5,12.622680719382473
+Sst,Sstr2,modulatory,Neuron (Subtype A),4/5/6,19.78506011975368
+Sst,Sstr2,modulatory,Endothelial,1/2o/2i/3,49.07770582431048
+Sst,Sstr2,modulatory,Ependymal,7/8,84.93639559597007
+Sst,Sstr2,modulatory,Excitatory Neuron,4/5,125.59925216375083
+Sst,Sstr2,modulatory,OPC,2i/3 (1-4),245.94868925070554
+Sst,Sstr2,modulatory,Neuron (Subtype A),1/2o/4,188.44387355003207
+Gal,Galr1,modulatory,Inhibitory Neuron,4,258.5914473886259
+Gal,Galr1,modulatory,Neuron (Subtype B),5/6,36.18090162985242
+Gal,Galr1,modulatory,Neuron (Subtype F),5/6,28.732027881277943
+Gal,Galr1,modulatory,Neuron (Subtype A),9,11.25295659846664
+Gal,Galr1,modulatory,Neuron (Subtype B),7,31.066403985436455
+Gal,Galr1,modulatory,Inhibitory Neuron,9,121.65754478030935
+Gal,Galr1,modulatory,Neuron (Subtype B),4,207.9561275580361
+Gal,Galr1,modulatory,Neuron (Subtype A),7,48.85519165416514
+Gal,Galr1,modulatory,Neuron (Subtype D),9,1.5393824629090003
+Gal,Galr1,modulatory,Neuron (Subtype C),5/6,6.110571652280692
+Gal,Galr1,modulatory,Neuron (Subtype C),9,2.9487954843883877
+Gal,Galr1,modulatory,Neuron (Subtype E),9,3.731229287352442
+Gal,Galr1,modulatory,Neuron (Subtype A),5/6,59.02977567258219
+Gal,Galr1,modulatory,Neuron (Subtype A),4,626.8142638681608
+Gal,Galr1,modulatory,Neuron (Subtype H),9,8.67595439006279
+Gal,Galr1,modulatory,Neuron (Subtype F),9,24.682948729764647
+Gal,Galr1,modulatory,Neuron (Subtype B),9,21.34308007877784
+Gal,Galr1,modulatory,Inhibitory Neuron,7,25.250882025482223
+Gal,Galr1,modulatory,Neuron (Subtype A),7/8,1.1287820472696906
+Gal,Galr1,modulatory,Neuron (Subtype F),4,811.7589031838394
+Gal,Galr1,modulatory,Neuron (Subtype A),6/7/8,6.457186217110486
+Gal,Galr1,modulatory,Low Quality,9,32.35258863143688
+Gal,Galr1,modulatory,Neuron (Subtype B),med 5,33.455004710591524
+Gal,Galr1,modulatory,Inhibitory Neuron,2i/3 (1-4),4.09750149834843
+Gal,Galr1,modulatory,Inhibitory Neuron,5/6,157.32951818761646
+Gal,Galr1,modulatory,Neuron (Subtype B),6/7/8,8.097627991193617
+Gal,Galr1,modulatory,Oligodendrocytes,1/2o (2i-4),387.08136751343613
+Gal,Galr1,modulatory,Neuron (Subtype B),3/4 (1/2o),49.622487936502075
+Gal,Galr1,modulatory,Neuron (Subtype B),1/2/3,18.297277462782926
+Gal,Galr1,modulatory,Neuron (Subtype B),1/2o (2i-4),193.0774117148471
+Gal,Galr1,modulatory,Neuron (Subtype B),1/2o/2i,107.6267664092514
+Gal,Galr1,modulatory,Neuron (Subtype B),3 (1-4),23.846403042269408
+Gal,Galr1,modulatory,Neuron (Subtype B),1/2o/4,26.97917346451259
+Gal,Galr1,modulatory,Neuron (Subtype B),1/2,59.56875622013106
+Gal,Galr1,modulatory,Neuron (Subtype B),2i (3/4),10.441277874913803
+Gal,Galr1,modulatory,Neuron (Subtype B),N/A,19.885135712276437
+Gal,Galr1,modulatory,Neuron (Subtype B),1-4,114.41599559210447
+Gal,Galr1,modulatory,Neuron (Subtype B),4/5/6,13.303450893935889
+Gal,Galr1,modulatory,Neuron (Subtype B),2i/3,16.488537432832196
+Gal,Galr1,modulatory,Neuron (Subtype B),4/lat 5,31.777181226626055
+Gal,Galr1,modulatory,Inhibitory Neuron,3/4,107.88881364953927
+Gal,Galr1,modulatory,Ependymal,4,627.6304163660109
+Gal,Galr1,modulatory,Endothelial,1/2,300.93773293997293
+Gal,Galr1,modulatory,Low Quality,3 (1-4),801.0995016570918
+Gal,Galr1,modulatory,Endothelial,1/2o (2i-4),632.2405174138568
+Gal,Galr2,modulatory,Neuron (Subtype B),7,1.5556692850198348
+Gal,Galr2,modulatory,Neuron (Subtype D),9,1.2097131204195373
+Gal,Galr2,modulatory,Neuron (Subtype E),9,0.927624421408479
+Gal,Galr2,modulatory,Neuron (Subtype A),7/8,1.1737067067466647
+Gal,Galr2,modulatory,Inhibitory Neuron,5/6,160.8822038381759
+Gal,Galr2,modulatory,Neuron (Subtype B),7/8,6.3811742981059725
+Gal,Galr2,modulatory,Neuron (Subtype D),7/8,202.34156231878438

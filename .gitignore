@@ -1,0 +1,16 @@
+# Ignore data folder with large files
+data/
+*.h5ad
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment
+venv/
+env/

@@ -1,0 +1,259 @@
+source,target,score
+Cldn9,Neuron (Subtype F),17.130487056342073
+Cldn9,Neuron (Subtype E),16.251702178281004
+Zcchc12/Sstr2,Neuron (Subtype F),16.01407289631111
+Zcchc12/Sstr2,Neuron (Subtype E),15.288820310606573
+Zcchc12/Dcn,Neuron (Subtype F),14.805570084120252
+Zcchc12/Dcn,Neuron (Subtype E),14.10974973230617
+Zcchc12/Rxfp1,Neuron (Subtype F),12.91529339658826
+Zcchc12/Trpm8,Neuron (Subtype F),12.453135677941644
+Zcchc12/Trpm8,Neuron (Subtype E),10.76526352228256
+Cldn9,Neuron (Subtype C),10.692649883657737
+Zcchc12/Rxfp1,Neuron (Subtype E),10.685126877608221
+Zcchc12/Sstr2,Neuron (Subtype C),10.312156751484896
+Zcchc12/Dcn,Neuron (Subtype C),9.47059301998867
+Cldn9,Astrocytes,9.136826034249662
+Zcchc12/Sstr2,Neuron (Subtype A),8.728658885571587
+Cldn9,Neuron (Subtype A),8.69493852706118
+Zcchc12/Sstr2,Astrocytes,8.631004060812538
+Zcchc12/Dcn,Neuron (Subtype A),8.008135358424394
+Zcchc12/Dcn,Astrocytes,7.998293290784053
+S100b/Smr2,Astrocytes,7.688642947657536
+S100b/Smr2,Neuron (Subtype E),7.663012190651803
+Zcchc12/Trpm8,Neuron (Subtype C),7.651933801265024
+Zcchc12/Rxfp1,Neuron (Subtype C),7.532502734678912
+Mrgpra3,Astrocytes,7.486989926003121
+Mrgpra3,Neuron (Subtype E),7.020270717988853
+Zcchc12/Sstr2,Inhibitory Neuron,7.000709062398658
+Zcchc12/Trpm8,Neuron (Subtype A),6.98429265678542
+Zcchc12/Rxfp1,Neuron (Subtype A),6.727730868050447
+Cldn9,Inhibitory Neuron,6.666220333674076
+Zcchc12/Dcn,Inhibitory Neuron,6.602396531364426
+S100b/Prokr2,Astrocytes,6.373119407401482
+Mrgprd/Lpar3,Neuron (Subtype E),6.299816642285778
+S100b/Smr2,Neuron (Subtype F),6.104363734747119
+Zcchc12/Trpm8,Inhibitory Neuron,6.054894674738409
+Mrgprd/Lpar3,Neuron (Subtype F),6.0365974712681405
+Zcchc12/Sstr2,Neuron (Subtype G),5.8576756018544724
+Zcchc12/Rxfp1,Inhibitory Neuron,5.776954945549882
+Cldn9,Neuron (Subtype G),5.730440518764086
+Th/Fam19a4,Neuron (Subtype F),5.69461449287801
+Mrgpra3/Mrgprb4,Astrocytes,5.605013333329836
+Cldn9,Neuron (Subtype D),5.397333611665692
+Zcchc12/Dcn,Neuron (Subtype G),5.336055899575021
+Th/Fam19a4,Neuron (Subtype E),5.335881663891617
+Zcchc12/Sstr2,Neuron (Subtype D),5.330418306338799
+Mrgpra3,Neuron (Subtype F),5.301780743511374
+Nppb,Neuron (Subtype E),5.222485439156613
+Nppb,Neuron (Subtype F),5.216586924542368
+Mrgprd/Gm7271,Neuron (Subtype E),5.067980614753813
+Zcchc12/Dcn,Neuron (Subtype D),4.897748911176774
+S100b/Prokr2,Neuron (Subtype E),4.747284603657951
+Mrgprd/Lpar3,Astrocytes,4.706249066332816
+Zcchc12/Trpm8,Astrocytes,4.697277097760706
+Mrgprd/Gm7271,Astrocytes,4.563317170173444
+Mrgprd/Gm7271,Neuron (Subtype F),4.374187436951702
+Zcchc12/Sstr2,Neuron (Subtype B),4.364816949403776
+Zcchc12/Rxfp1,Astrocytes,4.246850574033093
+Cldn9,OPC,4.197324919811398
+Zcchc12/Dcn,Neuron (Subtype B),4.096670427802605
+S100b/Smr2,Neuron (Subtype C),4.055741490033004
+S100b/Wnt7a,Neuron (Subtype E),3.996655001247852
+S100b/Wnt7a,Neuron (Subtype F),3.9902858151422707
+Mrgpra3/Mrgprb4,Neuron (Subtype E),3.945257821141982
+Zcchc12/Sstr2,OPC,3.868020603600868
+Cldn9,Neuron (Subtype B),3.855571600975884
+Zcchc12/Trpm8,Neuron (Subtype G),3.7882235674725293
+S100b/Smr2,Neuron (Subtype D),3.762747316954609
+Mrgprd/Lpar3,Neuron (Subtype C),3.6636617516016154
+S100b/Smr2,OPC,3.6591606169724833
+Mrgpra3,Neuron (Subtype D),3.646999618368928
+Mrgpra3,Neuron (Subtype C),3.630354569379434
+Zcchc12/Dcn,OPC,3.599766173499898
+Mrgpra3,OPC,3.55608131393361
+Nppb,Neuron (Subtype C),3.478550424190491
+Zcchc12/Rxfp1,Neuron (Subtype G),3.465474614318377
+S100b/Smr2,Neuron (Subtype A),3.431250041608809
+Zcchc12/Trpm8,Neuron (Subtype B),3.423591865975239
+Nppb,Astrocytes,3.3778749497832927
+Th/Fam19a4,Neuron (Subtype C),3.3509583802594625
+Mrgpra3,Neuron (Subtype A),3.1293340951994058
+S100b/Prokr2,Neuron (Subtype D),3.114273232938579
+S100b/Ntrk3/Gfra1,Astrocytes,3.047392629722001
+Zcchc12/Trpm8,Neuron (Subtype D),3.045978956675095
+Zcchc12/Rxfp1,Neuron (Subtype B),3.027210826036218
+Th/Fam19a4,Astrocytes,3.0265253055073935
+S100b/Prokr2,OPC,2.98380251410667
+Zcchc12/Sstr2,Neuron (Subtype H),2.8966362279050517
+Mrgprd/Lpar3,Neuron (Subtype A),2.87574863189432
+Cldn9,Oligodendrocytes,2.8522365833627625
+Nppb,Neuron (Subtype A),2.7925621939838776
+Mrgprd/Gm7271,Neuron (Subtype C),2.769549773648476
+Zcchc12/Sstr2,Oligodendrocytes,2.7332375319007554
+S100b/Prokr2,Neuron (Subtype F),2.707547795279032
+Zcchc12/Rxfp1,Neuron (Subtype D),2.6793212006138005
+Mrgpra3/Mrgprb4,OPC,2.672786591397958
+S100b/Wnt7a,Neuron (Subtype C),2.607664156007414
+Mrgpra3/Mrgprb4,Neuron (Subtype D),2.6022917895390263
+Zcchc12/Dcn,Neuron (Subtype H),2.5985757351096552
+Th/Fam19a4,Neuron (Subtype A),2.570383921122057
+Cldn9,Neuron (Subtype H),2.5498545417806207
+S100b/Wnt7a,Astrocytes,2.542641001293282
+S100b/Ntrk3/Gfra1,Neuron (Subtype E),2.5318513632104205
+Zcchc12/Dcn,Oligodendrocytes,2.5211127856617175
+Mrgprd/Lpar3,Neuron (Subtype D),2.3826682500334133
+Nppb,Neuron (Subtype D),2.3801284495549786
+S100b/Smr2,Inhibitory Neuron,2.3409042011194
+S100b/Baiap2l1,Astrocytes,2.3133357974212507
+S100b/Smr2,Neuron (Subtype G),2.268662928193094
+S100b/Prokr2,Neuron (Subtype C),2.2659228304859047
+Nppb,Neuron (Subtype G),2.258631239197177
+Mrgprd/Lpar3,OPC,2.2585913541386287
+Mrgprd/Gm7271,Neuron (Subtype A),2.2489559999759714
+Mrgprd/Gm7271,Neuron (Subtype D),2.2414573952217554
+S100b/Prokr2,Neuron (Subtype A),2.2076872706696027
+S100b/Baiap2l1,Neuron (Subtype E),2.2054290722551193
+Mrgprd/Gm7271,OPC,2.184985359169176
+S100b/Wnt7a,Neuron (Subtype A),2.1835967375245557
+Zcchc12/Trpm8,OPC,2.177905513546627
+Mrgprd/Lpar3,Inhibitory Neuron,2.1479455649924395
+Mrgpra3/Mrgprb4,Neuron (Subtype F),2.132239412522031
+Mrgpra3,Neuron (Subtype G),2.10043803667884
+Nppb,Inhibitory Neuron,2.0915212000013237
+Th/Fam19a4,Inhibitory Neuron,2.043391757989391
+Zcchc12/Rxfp1,OPC,2.0410127005567285
+Mrgpra3,Inhibitory Neuron,2.0284678860284
+Cldn9,Ependymal,1.938725168734909
+S100b/Smr2,Oligodendrocytes,1.847258589091952
+Zcchc12/Sstr2,Ependymal,1.8329995298048256
+Zcchc12/Trpm8,Oligodendrocytes,1.8329111038732733
+Mrgprd/Lpar3,Neuron (Subtype G),1.8187346398406055
+Zcchc12/Trpm8,Neuron (Subtype H),1.7674387720199551
+Mrgpra3,Oligodendrocytes,1.7656717344237287
+Zcchc12/Rxfp1,Oligodendrocytes,1.7465978417015238
+S100b/Ntrk3/Gfra1,Neuron (Subtype F),1.7129018043389155
+Zcchc12/Dcn,Ependymal,1.695157938350834
+Mrgpra3/Mrgprb4,Neuron (Subtype C),1.686656547926902
+S100b/Baiap2l1,Neuron (Subtype F),1.6646931270305645
+Zcchc12/Rxfp1,Neuron (Subtype H),1.6526326771138622
+Th/Fam19a4,Neuron (Subtype D),1.6431879370938298
+Th/Fam19a4,Neuron (Subtype G),1.6061284438704986
+Nppb,OPC,1.603708186751159
+S100b/Prokr2,Neuron (Subtype G),1.5980718054538599
+Mrgprd/Gm7271,Inhibitory Neuron,1.583073574046458
+Mrgpra3/Mrgprb4,Neuron (Subtype A),1.580460996104297
+S100b/Wnt7a,Inhibitory Neuron,1.52867545249135
+S100b/Wnt7a,Neuron (Subtype D),1.492506009211156
+S100b/Wnt7a,Neuron (Subtype G),1.48649596052985
+S100b/Ntrk3/Gfra1,OPC,1.4550318200574184
+Mrgprd/Gm7271,Neuron (Subtype G),1.451142441165167
+Th/Fam19a4,OPC,1.4480415003428055
+S100b/Ntrk3/Gfra1,Neuron (Subtype D),1.4404383942943082
+S100b/Prokr2,Oligodendrocytes,1.4214990026200955
+Nppb,Neuron (Subtype B),1.4050258384937586
+S100b/Smr2,Neuron (Subtype B),1.373279572223711
+S100b/Smr2,Ependymal,1.3420577720301547
+Mrgpra3,Ependymal,1.2863756199624203
+Mrgprd/Lpar3,Oligodendrocytes,1.2546575697903986
+Mrgpra3,Neuron (Subtype B),1.230131629945788
+Mrgpra3/Mrgprb4,Oligodendrocytes,1.209137249371671
+S100b/Prokr2,Inhibitory Neuron,1.208797898286597
+S100b/Ntrk3/Gfra1,Neuron (Subtype C),1.2080744538177177
+S100b/Baiap2l1,Neuron (Subtype C),1.1873065160933653
+Zcchc12/Trpm8,Ependymal,1.1832575138332229
+S100b/Baiap2l1,Neuron (Subtype D),1.164151070145801
+S100b/Wnt7a,OPC,1.155158685253078
+Mrgprd/Gm7271,Oligodendrocytes,1.133162124844598
+Zcchc12/Rxfp1,Ependymal,1.1236935811846154
+Mrgprd/Lpar3,Neuron (Subtype B),1.1078638839554324
+Mrgpra3/Mrgprb4,Neuron (Subtype G),1.0980699374338898
+S100b/Baiap2l1,OPC,1.0846507325348693
+S100b/Ntrk3/Gfra1,Neuron (Subtype A),1.0637903855107587
+S100b/Baiap2l1,Neuron (Subtype A),1.0523891974994812
+S100b/Prokr2,Ependymal,1.0391393813284184
+Th/Fam19a4,Neuron (Subtype B),1.034439497784377
+Nppb,Oligodendrocytes,0.9381729121878534
+S100b/Wnt7a,Neuron (Subtype B),0.9363711906064415
+S100b/Prokr2,Neuron (Subtype B),0.929269196544508
+Zcchc12/Sstr2,Immune/Vascular,0.9227095023071207
+Th/Fam19a4,Oligodendrocytes,0.9146325202428487
+Mrgpra3/Mrgprb4,Ependymal,0.9007692351501121
+Mrgprd/Lpar3,Ependymal,0.8964318199195269
+Cldn9,Immune/Vascular,0.8944946508894546
+Zcchc12/Dcn,Immune/Vascular,0.8917787845175563
+Mrgprd/Gm7271,Neuron (Subtype B),0.8588546487016178
+Mrgpra3/Mrgprb4,Inhibitory Neuron,0.8498072057281223
+Mrgprd/Gm7271,Ependymal,0.8204060765533385
+S100b/Wnt7a,Oligodendrocytes,0.7562965466373678
+S100b/Baiap2l1,Neuron (Subtype G),0.7284006278193731
+S100b/Smr2,Neuron (Subtype H),0.7276514570456176
+S100b/Ntrk3/Gfra1,Neuron (Subtype G),0.7131417223584315
+S100b/Wnt7a,Neuron (Subtype H),0.7084123833420224
+Nppb,Neuron (Subtype H),0.69539539417295
+Mrgpra3,Neuron (Subtype H),0.6885433542858148
+S100b/Ntrk3/Gfra1,Oligodendrocytes,0.6884004541144333
+S100b/Ntrk3/Gfra1,Inhibitory Neuron,0.6749820588745202
+Nppb,Ependymal,0.6612542514963617
+S100b/Baiap2l1,Inhibitory Neuron,0.6539639682846057
+S100b/Prokr2,Neuron (Subtype H),0.6504355723619749
+Zcchc12/Sstr2,Low Quality,0.6438398673465313
+Th/Fam19a4,Ependymal,0.6372313884935455
+Cldn9,Low Quality,0.6308611267294593
+Zcchc12/Trpm8,Immune/Vascular,0.6017730827605647
+S100b/Smr2,Immune/Vascular,0.5883750536362093
+Zcchc12/Dcn,Low Quality,0.5857521318778028
+Mrgpra3/Mrgprb4,Neuron (Subtype B),0.5830774996215788
+S100b/Baiap2l1,Oligodendrocytes,0.5549671739555259
+Mrgprd/Lpar3,Neuron (Subtype H),0.5546327062257549
+Zcchc12/Rxfp1,Immune/Vascular,0.5529519957415762
+Mrgpra3,Immune/Vascular,0.5476970296412575
+Th/Fam19a4,Neuron (Subtype H),0.5433337771608252
+Zcchc12/Trpm8,Low Quality,0.527649423379443
+S100b/Wnt7a,Ependymal,0.5153402354253486
+S100b/Ntrk3/Gfra1,Ependymal,0.5078833430559417
+Zcchc12/Rxfp1,Low Quality,0.5044738208729143
+Cldn9,Excitatory Neuron,0.44248210473569827
+Zcchc12/Sstr2,Excitatory Neuron,0.4424125314062678
+Nppb,Immune/Vascular,0.44124020912283424
+Mrgprd/Gm7271,Neuron (Subtype H),0.43058755260840875
+S100b/Baiap2l1,Neuron (Subtype B),0.42739285212150785
+Cldn9,Endothelial,0.4245042038469466
+Zcchc12/Sstr2,Endothelial,0.4228446566194944
+S100b/Ntrk3/Gfra1,Neuron (Subtype B),0.4160818337806183
+S100b/Prokr2,Immune/Vascular,0.41578592091437744
+Mrgprd/Lpar3,Immune/Vascular,0.408076197624396
+Zcchc12/Dcn,Excitatory Neuron,0.4037035713279023
+S100b/Baiap2l1,Ependymal,0.39984290095919883
+Zcchc12/Dcn,Endothelial,0.38606152027481094
+Mrgpra3/Mrgprb4,Immune/Vascular,0.37131660647089276
+Mrgprd/Gm7271,Immune/Vascular,0.3621389859656704
+Zcchc12/Trpm8,Endothelial,0.3413028890262774
+Zcchc12/Trpm8,Excitatory Neuron,0.33914925144474295
+Zcchc12/Rxfp1,Endothelial,0.3322375083481261
+Zcchc12/Rxfp1,Excitatory Neuron,0.3270281794203123
+Th/Fam19a4,Immune/Vascular,0.3056365254428211
+Mrgpra3/Mrgprb4,Neuron (Subtype H),0.29401708725393616
+S100b/Baiap2l1,Neuron (Subtype H),0.28957918567260205
+S100b/Ntrk3/Gfra1,Immune/Vascular,0.2197082791669725
+S100b/Wnt7a,Immune/Vascular,0.21046959794405717
+S100b/Ntrk3/Gfra1,Neuron (Subtype H),0.19971063746115547
+Th/Fam19a4,Low Quality,0.1763084931940189
+Mrgprd/Lpar3,Low Quality,0.1730936208932582
+S100b/Smr2,Low Quality,0.17068791574872633
+S100b/Baiap2l1,Immune/Vascular,0.1627463097906996
+S100b/Wnt7a,Low Quality,0.15668302925429237
+Nppb,Low Quality,0.1510010737288252
+Mrgpra3,Low Quality,0.14839964983946063
+Th/Fam19a4,Excitatory Neuron,0.12901381456546837
+Mrgprd/Lpar3,Excitatory Neuron,0.12784261280348258
+Th/Fam19a4,Endothelial,0.12470139166508405
+S100b/Smr2,Excitatory Neuron,0.12401866052481925
+Mrgprd/Lpar3,Endothelial,0.12376595192797013
+S100b/Smr2,Endothelial,0.11972635634465423
+Mrgprd/Gm7271,Low Quality,0.11971260324136063
+Nppb,Excitatory Neuron,0.10935839922700438
+S100b/Wnt7a,Excitatory Neuron,0.1080202387467645
+Mrgpra3,Excitatory Neuron,0.10704610852607611
+Nppb,Endothelial,0.10551378620872393
+S100b/Wnt7a,Endothelial,0.10330560854634704
+Mrgpra3,Endothelial,0.10321076237343627

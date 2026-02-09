@@ -1,0 +1,1915 @@
+cell_type,layer,freq
+CSF-cN,1-4,0.0
+CSF-cN,1/2,0.0
+CSF-cN,1/2/3,0.0
+CSF-cN,1/2o,0.0
+CSF-cN,1/2o (2i-4),0.0
+CSF-cN,1/2o (2i/3),0.0
+CSF-cN,1/2o (3),0.0
+CSF-cN,1/2o/2i,0.0
+CSF-cN,1/2o/2i/3,0.0
+CSF-cN,1/2o/4,0.0
+CSF-cN,10,1.0
+CSF-cN,2i (3/4),0.0
+CSF-cN,2i/3,0.0
+CSF-cN,2i/3 (1-4),0.0
+CSF-cN,2i/3/4,0.0
+CSF-cN,3 (1-4),0.0
+CSF-cN,3 (1-5),0.0
+CSF-cN,3/4,0.0
+CSF-cN,3/4 (1/2o),0.0
+CSF-cN,4,0.0
+CSF-cN,4/5,0.0
+CSF-cN,4/5/6,0.0
+CSF-cN,4/lat 5,0.0
+CSF-cN,4/med 5,0.0
+CSF-cN,5,0.0
+CSF-cN,5/6,0.0
+CSF-cN,6/7/8,0.0
+CSF-cN,7,0.0
+CSF-cN,7-IML,0.0
+CSF-cN,7/8,0.0
+CSF-cN,9,0.0
+CSF-cN,N/A,0.0
+CSF-cN,med 5,0.0
+Excit-01,1-4,0.0
+Excit-01,1/2,0.0
+Excit-01,1/2/3,0.0
+Excit-01,1/2o,1.0
+Excit-01,1/2o (2i-4),0.0
+Excit-01,1/2o (2i/3),0.0
+Excit-01,1/2o (3),0.0
+Excit-01,1/2o/2i,0.0
+Excit-01,1/2o/2i/3,0.0
+Excit-01,1/2o/4,0.0
+Excit-01,10,0.0
+Excit-01,2i (3/4),0.0
+Excit-01,2i/3,0.0
+Excit-01,2i/3 (1-4),0.0
+Excit-01,2i/3/4,0.0
+Excit-01,3 (1-4),0.0
+Excit-01,3 (1-5),0.0
+Excit-01,3/4,0.0
+Excit-01,3/4 (1/2o),0.0
+Excit-01,4,0.0
+Excit-01,4/5,0.0
+Excit-01,4/5/6,0.0
+Excit-01,4/lat 5,0.0
+Excit-01,4/med 5,0.0
+Excit-01,5,0.0
+Excit-01,5/6,0.0
+Excit-01,6/7/8,0.0
+Excit-01,7,0.0
+Excit-01,7-IML,0.0
+Excit-01,7/8,0.0
+Excit-01,9,0.0
+Excit-01,N/A,0.0
+Excit-01,med 5,0.0
+Excit-02,1-4,0.0
+Excit-02,1/2,0.0
+Excit-02,1/2/3,0.0
+Excit-02,1/2o,0.0
+Excit-02,1/2o (2i-4),0.0
+Excit-02,1/2o (2i/3),0.0
+Excit-02,1/2o (3),0.0
+Excit-02,1/2o/2i,1.0
+Excit-02,1/2o/2i/3,0.0
+Excit-02,1/2o/4,0.0
+Excit-02,10,0.0
+Excit-02,2i (3/4),0.0
+Excit-02,2i/3,0.0
+Excit-02,2i/3 (1-4),0.0
+Excit-02,2i/3/4,0.0
+Excit-02,3 (1-4),0.0
+Excit-02,3 (1-5),0.0
+Excit-02,3/4,0.0
+Excit-02,3/4 (1/2o),0.0
+Excit-02,4,0.0
+Excit-02,4/5,0.0
+Excit-02,4/5/6,0.0
+Excit-02,4/lat 5,0.0
+Excit-02,4/med 5,0.0
+Excit-02,5,0.0
+Excit-02,5/6,0.0
+Excit-02,6/7/8,0.0
+Excit-02,7,0.0
+Excit-02,7-IML,0.0
+Excit-02,7/8,0.0
+Excit-02,9,0.0
+Excit-02,N/A,0.0
+Excit-02,med 5,0.0
+Excit-03,1-4,0.0
+Excit-03,1/2,0.0
+Excit-03,1/2/3,0.0
+Excit-03,1/2o,0.0
+Excit-03,1/2o (2i-4),0.0
+Excit-03,1/2o (2i/3),0.0
+Excit-03,1/2o (3),0.0
+Excit-03,1/2o/2i,1.0
+Excit-03,1/2o/2i/3,0.0
+Excit-03,1/2o/4,0.0
+Excit-03,10,0.0
+Excit-03,2i (3/4),0.0
+Excit-03,2i/3,0.0
+Excit-03,2i/3 (1-4),0.0
+Excit-03,2i/3/4,0.0
+Excit-03,3 (1-4),0.0
+Excit-03,3 (1-5),0.0
+Excit-03,3/4,0.0
+Excit-03,3/4 (1/2o),0.0
+Excit-03,4,0.0
+Excit-03,4/5,0.0
+Excit-03,4/5/6,0.0
+Excit-03,4/lat 5,0.0
+Excit-03,4/med 5,0.0
+Excit-03,5,0.0
+Excit-03,5/6,0.0
+Excit-03,6/7/8,0.0
+Excit-03,7,0.0
+Excit-03,7-IML,0.0
+Excit-03,7/8,0.0
+Excit-03,9,0.0
+Excit-03,N/A,0.0
+Excit-03,med 5,0.0
+Excit-04,1-4,0.0
+Excit-04,1/2,0.0
+Excit-04,1/2/3,0.0
+Excit-04,1/2o,0.0
+Excit-04,1/2o (2i-4),0.0
+Excit-04,1/2o (2i/3),0.0
+Excit-04,1/2o (3),0.0
+Excit-04,1/2o/2i,0.0
+Excit-04,1/2o/2i/3,0.0
+Excit-04,1/2o/4,0.0
+Excit-04,10,0.0
+Excit-04,2i (3/4),0.0
+Excit-04,2i/3,1.0
+Excit-04,2i/3 (1-4),0.0
+Excit-04,2i/3/4,0.0
+Excit-04,3 (1-4),0.0
+Excit-04,3 (1-5),0.0
+Excit-04,3/4,0.0
+Excit-04,3/4 (1/2o),0.0
+Excit-04,4,0.0
+Excit-04,4/5,0.0
+Excit-04,4/5/6,0.0
+Excit-04,4/lat 5,0.0
+Excit-04,4/med 5,0.0
+Excit-04,5,0.0
+Excit-04,5/6,0.0
+Excit-04,6/7/8,0.0
+Excit-04,7,0.0
+Excit-04,7-IML,0.0
+Excit-04,7/8,0.0
+Excit-04,9,0.0
+Excit-04,N/A,0.0
+Excit-04,med 5,0.0
+Excit-05,1-4,0.0
+Excit-05,1/2,0.0
+Excit-05,1/2/3,0.0
+Excit-05,1/2o,0.0
+Excit-05,1/2o (2i-4),0.0
+Excit-05,1/2o (2i/3),0.0
+Excit-05,1/2o (3),0.0
+Excit-05,1/2o/2i,0.0
+Excit-05,1/2o/2i/3,0.0
+Excit-05,1/2o/4,0.0
+Excit-05,10,0.0
+Excit-05,2i (3/4),0.0
+Excit-05,2i/3,0.0
+Excit-05,2i/3 (1-4),0.0
+Excit-05,2i/3/4,1.0
+Excit-05,3 (1-4),0.0
+Excit-05,3 (1-5),0.0
+Excit-05,3/4,0.0
+Excit-05,3/4 (1/2o),0.0
+Excit-05,4,0.0
+Excit-05,4/5,0.0
+Excit-05,4/5/6,0.0
+Excit-05,4/lat 5,0.0
+Excit-05,4/med 5,0.0
+Excit-05,5,0.0
+Excit-05,5/6,0.0
+Excit-05,6/7/8,0.0
+Excit-05,7,0.0
+Excit-05,7-IML,0.0
+Excit-05,7/8,0.0
+Excit-05,9,0.0
+Excit-05,N/A,0.0
+Excit-05,med 5,0.0
+Excit-06,1-4,0.0
+Excit-06,1/2,0.0
+Excit-06,1/2/3,0.0
+Excit-06,1/2o,0.0
+Excit-06,1/2o (2i-4),0.0
+Excit-06,1/2o (2i/3),0.0
+Excit-06,1/2o (3),0.0
+Excit-06,1/2o/2i,0.0
+Excit-06,1/2o/2i/3,0.0
+Excit-06,1/2o/4,0.0
+Excit-06,10,0.0
+Excit-06,2i (3/4),0.0
+Excit-06,2i/3,0.0
+Excit-06,2i/3 (1-4),0.0
+Excit-06,2i/3/4,0.0
+Excit-06,3 (1-4),0.0
+Excit-06,3 (1-5),0.0
+Excit-06,3/4,1.0
+Excit-06,3/4 (1/2o),0.0
+Excit-06,4,0.0
+Excit-06,4/5,0.0
+Excit-06,4/5/6,0.0
+Excit-06,4/lat 5,0.0
+Excit-06,4/med 5,0.0
+Excit-06,5,0.0
+Excit-06,5/6,0.0
+Excit-06,6/7/8,0.0
+Excit-06,7,0.0
+Excit-06,7-IML,0.0
+Excit-06,7/8,0.0
+Excit-06,9,0.0
+Excit-06,N/A,0.0
+Excit-06,med 5,0.0
+Excit-08,1-4,0.0
+Excit-08,1/2,1.0
+Excit-08,1/2/3,0.0
+Excit-08,1/2o,0.0
+Excit-08,1/2o (2i-4),0.0
+Excit-08,1/2o (2i/3),0.0
+Excit-08,1/2o (3),0.0
+Excit-08,1/2o/2i,0.0
+Excit-08,1/2o/2i/3,0.0
+Excit-08,1/2o/4,0.0
+Excit-08,10,0.0
+Excit-08,2i (3/4),0.0
+Excit-08,2i/3,0.0
+Excit-08,2i/3 (1-4),0.0
+Excit-08,2i/3/4,0.0
+Excit-08,3 (1-4),0.0
+Excit-08,3 (1-5),0.0
+Excit-08,3/4,0.0
+Excit-08,3/4 (1/2o),0.0
+Excit-08,4,0.0
+Excit-08,4/5,0.0
+Excit-08,4/5/6,0.0
+Excit-08,4/lat 5,0.0
+Excit-08,4/med 5,0.0
+Excit-08,5,0.0
+Excit-08,5/6,0.0
+Excit-08,6/7/8,0.0
+Excit-08,7,0.0
+Excit-08,7-IML,0.0
+Excit-08,7/8,0.0
+Excit-08,9,0.0
+Excit-08,N/A,0.0
+Excit-08,med 5,0.0
+Excit-09,1-4,0.0
+Excit-09,1/2,0.0
+Excit-09,1/2/3,1.0
+Excit-09,1/2o,0.0
+Excit-09,1/2o (2i-4),0.0
+Excit-09,1/2o (2i/3),0.0
+Excit-09,1/2o (3),0.0
+Excit-09,1/2o/2i,0.0
+Excit-09,1/2o/2i/3,0.0
+Excit-09,1/2o/4,0.0
+Excit-09,10,0.0
+Excit-09,2i (3/4),0.0
+Excit-09,2i/3,0.0
+Excit-09,2i/3 (1-4),0.0
+Excit-09,2i/3/4,0.0
+Excit-09,3 (1-4),0.0
+Excit-09,3 (1-5),0.0
+Excit-09,3/4,0.0
+Excit-09,3/4 (1/2o),0.0
+Excit-09,4,0.0
+Excit-09,4/5,0.0
+Excit-09,4/5/6,0.0
+Excit-09,4/lat 5,0.0
+Excit-09,4/med 5,0.0
+Excit-09,5,0.0
+Excit-09,5/6,0.0
+Excit-09,6/7/8,0.0
+Excit-09,7,0.0
+Excit-09,7-IML,0.0
+Excit-09,7/8,0.0
+Excit-09,9,0.0
+Excit-09,N/A,0.0
+Excit-09,med 5,0.0
+Excit-10,1-4,0.0
+Excit-10,1/2,1.0
+Excit-10,1/2/3,0.0
+Excit-10,1/2o,0.0
+Excit-10,1/2o (2i-4),0.0
+Excit-10,1/2o (2i/3),0.0
+Excit-10,1/2o (3),0.0
+Excit-10,1/2o/2i,0.0
+Excit-10,1/2o/2i/3,0.0
+Excit-10,1/2o/4,0.0
+Excit-10,10,0.0
+Excit-10,2i (3/4),0.0
+Excit-10,2i/3,0.0
+Excit-10,2i/3 (1-4),0.0
+Excit-10,2i/3/4,0.0
+Excit-10,3 (1-4),0.0
+Excit-10,3 (1-5),0.0
+Excit-10,3/4,0.0
+Excit-10,3/4 (1/2o),0.0
+Excit-10,4,0.0
+Excit-10,4/5,0.0
+Excit-10,4/5/6,0.0
+Excit-10,4/lat 5,0.0
+Excit-10,4/med 5,0.0
+Excit-10,5,0.0
+Excit-10,5/6,0.0
+Excit-10,6/7/8,0.0
+Excit-10,7,0.0
+Excit-10,7-IML,0.0
+Excit-10,7/8,0.0
+Excit-10,9,0.0
+Excit-10,N/A,0.0
+Excit-10,med 5,0.0
+Excit-11,1-4,0.0
+Excit-11,1/2,0.0
+Excit-11,1/2/3,0.0
+Excit-11,1/2o,0.0
+Excit-11,1/2o (2i-4),0.0
+Excit-11,1/2o (2i/3),0.0
+Excit-11,1/2o (3),0.0
+Excit-11,1/2o/2i,0.0
+Excit-11,1/2o/2i/3,0.0
+Excit-11,1/2o/4,0.0
+Excit-11,10,0.0
+Excit-11,2i (3/4),0.0
+Excit-11,2i/3,0.0
+Excit-11,2i/3 (1-4),0.0
+Excit-11,2i/3/4,0.0
+Excit-11,3 (1-4),0.0
+Excit-11,3 (1-5),0.0
+Excit-11,3/4,0.0
+Excit-11,3/4 (1/2o),0.0
+Excit-11,4,0.0
+Excit-11,4/5,0.0
+Excit-11,4/5/6,0.0
+Excit-11,4/lat 5,0.0
+Excit-11,4/med 5,0.0
+Excit-11,5,0.0
+Excit-11,5/6,0.0
+Excit-11,6/7/8,0.0
+Excit-11,7,0.0
+Excit-11,7-IML,0.0
+Excit-11,7/8,0.0
+Excit-11,9,0.0
+Excit-11,N/A,1.0
+Excit-11,med 5,0.0
+Excit-12,1-4,0.0
+Excit-12,1/2,1.0
+Excit-12,1/2/3,0.0
+Excit-12,1/2o,0.0
+Excit-12,1/2o (2i-4),0.0
+Excit-12,1/2o (2i/3),0.0
+Excit-12,1/2o (3),0.0
+Excit-12,1/2o/2i,0.0
+Excit-12,1/2o/2i/3,0.0
+Excit-12,1/2o/4,0.0
+Excit-12,10,0.0
+Excit-12,2i (3/4),0.0
+Excit-12,2i/3,0.0
+Excit-12,2i/3 (1-4),0.0
+Excit-12,2i/3/4,0.0
+Excit-12,3 (1-4),0.0
+Excit-12,3 (1-5),0.0
+Excit-12,3/4,0.0
+Excit-12,3/4 (1/2o),0.0
+Excit-12,4,0.0
+Excit-12,4/5,0.0
+Excit-12,4/5/6,0.0
+Excit-12,4/lat 5,0.0
+Excit-12,4/med 5,0.0
+Excit-12,5,0.0
+Excit-12,5/6,0.0
+Excit-12,6/7/8,0.0
+Excit-12,7,0.0
+Excit-12,7-IML,0.0
+Excit-12,7/8,0.0
+Excit-12,9,0.0
+Excit-12,N/A,0.0
+Excit-12,med 5,0.0
+Excit-13,1-4,0.0
+Excit-13,1/2,0.0
+Excit-13,1/2/3,0.0
+Excit-13,1/2o,0.0
+Excit-13,1/2o (2i-4),0.0
+Excit-13,1/2o (2i/3),0.0
+Excit-13,1/2o (3),0.0
+Excit-13,1/2o/2i,0.0
+Excit-13,1/2o/2i/3,0.0
+Excit-13,1/2o/4,0.0
+Excit-13,10,0.0
+Excit-13,2i (3/4),0.0
+Excit-13,2i/3,1.0
+Excit-13,2i/3 (1-4),0.0
+Excit-13,2i/3/4,0.0
+Excit-13,3 (1-4),0.0
+Excit-13,3 (1-5),0.0
+Excit-13,3/4,0.0
+Excit-13,3/4 (1/2o),0.0
+Excit-13,4,0.0
+Excit-13,4/5,0.0
+Excit-13,4/5/6,0.0
+Excit-13,4/lat 5,0.0
+Excit-13,4/med 5,0.0
+Excit-13,5,0.0
+Excit-13,5/6,0.0
+Excit-13,6/7/8,0.0
+Excit-13,7,0.0
+Excit-13,7-IML,0.0
+Excit-13,7/8,0.0
+Excit-13,9,0.0
+Excit-13,N/A,0.0
+Excit-13,med 5,0.0
+Excit-14,1-4,0.0
+Excit-14,1/2,0.0
+Excit-14,1/2/3,0.0
+Excit-14,1/2o,1.0
+Excit-14,1/2o (2i-4),0.0
+Excit-14,1/2o (2i/3),0.0
+Excit-14,1/2o (3),0.0
+Excit-14,1/2o/2i,0.0
+Excit-14,1/2o/2i/3,0.0
+Excit-14,1/2o/4,0.0
+Excit-14,10,0.0
+Excit-14,2i (3/4),0.0
+Excit-14,2i/3,0.0
+Excit-14,2i/3 (1-4),0.0
+Excit-14,2i/3/4,0.0
+Excit-14,3 (1-4),0.0
+Excit-14,3 (1-5),0.0
+Excit-14,3/4,0.0
+Excit-14,3/4 (1/2o),0.0
+Excit-14,4,0.0
+Excit-14,4/5,0.0
+Excit-14,4/5/6,0.0
+Excit-14,4/lat 5,0.0
+Excit-14,4/med 5,0.0
+Excit-14,5,0.0
+Excit-14,5/6,0.0
+Excit-14,6/7/8,0.0
+Excit-14,7,0.0
+Excit-14,7-IML,0.0
+Excit-14,7/8,0.0
+Excit-14,9,0.0
+Excit-14,N/A,0.0
+Excit-14,med 5,0.0
+Excit-15,1-4,0.0
+Excit-15,1/2,0.0
+Excit-15,1/2/3,1.0
+Excit-15,1/2o,0.0
+Excit-15,1/2o (2i-4),0.0
+Excit-15,1/2o (2i/3),0.0
+Excit-15,1/2o (3),0.0
+Excit-15,1/2o/2i,0.0
+Excit-15,1/2o/2i/3,0.0
+Excit-15,1/2o/4,0.0
+Excit-15,10,0.0
+Excit-15,2i (3/4),0.0
+Excit-15,2i/3,0.0
+Excit-15,2i/3 (1-4),0.0
+Excit-15,2i/3/4,0.0
+Excit-15,3 (1-4),0.0
+Excit-15,3 (1-5),0.0
+Excit-15,3/4,0.0
+Excit-15,3/4 (1/2o),0.0
+Excit-15,4,0.0
+Excit-15,4/5,0.0
+Excit-15,4/5/6,0.0
+Excit-15,4/lat 5,0.0
+Excit-15,4/med 5,0.0
+Excit-15,5,0.0
+Excit-15,5/6,0.0
+Excit-15,6/7/8,0.0
+Excit-15,7,0.0
+Excit-15,7-IML,0.0
+Excit-15,7/8,0.0
+Excit-15,9,0.0
+Excit-15,N/A,0.0
+Excit-15,med 5,0.0
+Excit-16,1-4,0.0
+Excit-16,1/2,0.0
+Excit-16,1/2/3,0.0
+Excit-16,1/2o,0.0
+Excit-16,1/2o (2i-4),1.0
+Excit-16,1/2o (2i/3),0.0
+Excit-16,1/2o (3),0.0
+Excit-16,1/2o/2i,0.0
+Excit-16,1/2o/2i/3,0.0
+Excit-16,1/2o/4,0.0
+Excit-16,10,0.0
+Excit-16,2i (3/4),0.0
+Excit-16,2i/3,0.0
+Excit-16,2i/3 (1-4),0.0
+Excit-16,2i/3/4,0.0
+Excit-16,3 (1-4),0.0
+Excit-16,3 (1-5),0.0
+Excit-16,3/4,0.0
+Excit-16,3/4 (1/2o),0.0
+Excit-16,4,0.0
+Excit-16,4/5,0.0
+Excit-16,4/5/6,0.0
+Excit-16,4/lat 5,0.0
+Excit-16,4/med 5,0.0
+Excit-16,5,0.0
+Excit-16,5/6,0.0
+Excit-16,6/7/8,0.0
+Excit-16,7,0.0
+Excit-16,7-IML,0.0
+Excit-16,7/8,0.0
+Excit-16,9,0.0
+Excit-16,N/A,0.0
+Excit-16,med 5,0.0
+Excit-17,1-4,0.0
+Excit-17,1/2,0.0
+Excit-17,1/2/3,0.0
+Excit-17,1/2o,0.0
+Excit-17,1/2o (2i-4),0.0
+Excit-17,1/2o (2i/3),0.0
+Excit-17,1/2o (3),0.0
+Excit-17,1/2o/2i,0.0
+Excit-17,1/2o/2i/3,0.0
+Excit-17,1/2o/4,0.0
+Excit-17,10,0.0
+Excit-17,2i (3/4),0.0
+Excit-17,2i/3,0.0
+Excit-17,2i/3 (1-4),0.0
+Excit-17,2i/3/4,0.0
+Excit-17,3 (1-4),0.0
+Excit-17,3 (1-5),0.0
+Excit-17,3/4,0.0
+Excit-17,3/4 (1/2o),0.0
+Excit-17,4,0.0
+Excit-17,4/5,0.0
+Excit-17,4/5/6,0.0
+Excit-17,4/lat 5,0.0
+Excit-17,4/med 5,0.0
+Excit-17,5,0.0
+Excit-17,5/6,0.0
+Excit-17,6/7/8,0.0
+Excit-17,7,0.0
+Excit-17,7-IML,0.0
+Excit-17,7/8,0.0
+Excit-17,9,0.0
+Excit-17,N/A,1.0
+Excit-17,med 5,0.0
+Excit-18,1-4,0.0
+Excit-18,1/2,0.0
+Excit-18,1/2/3,0.0
+Excit-18,1/2o,0.0
+Excit-18,1/2o (2i-4),1.0
+Excit-18,1/2o (2i/3),0.0
+Excit-18,1/2o (3),0.0
+Excit-18,1/2o/2i,0.0
+Excit-18,1/2o/2i/3,0.0
+Excit-18,1/2o/4,0.0
+Excit-18,10,0.0
+Excit-18,2i (3/4),0.0
+Excit-18,2i/3,0.0
+Excit-18,2i/3 (1-4),0.0
+Excit-18,2i/3/4,0.0
+Excit-18,3 (1-4),0.0
+Excit-18,3 (1-5),0.0
+Excit-18,3/4,0.0
+Excit-18,3/4 (1/2o),0.0
+Excit-18,4,0.0
+Excit-18,4/5,0.0
+Excit-18,4/5/6,0.0
+Excit-18,4/lat 5,0.0
+Excit-18,4/med 5,0.0
+Excit-18,5,0.0
+Excit-18,5/6,0.0
+Excit-18,6/7/8,0.0
+Excit-18,7,0.0
+Excit-18,7-IML,0.0
+Excit-18,7/8,0.0
+Excit-18,9,0.0
+Excit-18,N/A,0.0
+Excit-18,med 5,0.0
+Excit-19,1-4,0.0
+Excit-19,1/2,0.0
+Excit-19,1/2/3,0.0
+Excit-19,1/2o,0.0
+Excit-19,1/2o (2i-4),0.0
+Excit-19,1/2o (2i/3),0.0
+Excit-19,1/2o (3),0.0
+Excit-19,1/2o/2i,0.0
+Excit-19,1/2o/2i/3,0.0
+Excit-19,1/2o/4,0.0
+Excit-19,10,0.0
+Excit-19,2i (3/4),1.0
+Excit-19,2i/3,0.0
+Excit-19,2i/3 (1-4),0.0
+Excit-19,2i/3/4,0.0
+Excit-19,3 (1-4),0.0
+Excit-19,3 (1-5),0.0
+Excit-19,3/4,0.0
+Excit-19,3/4 (1/2o),0.0
+Excit-19,4,0.0
+Excit-19,4/5,0.0
+Excit-19,4/5/6,0.0
+Excit-19,4/lat 5,0.0
+Excit-19,4/med 5,0.0
+Excit-19,5,0.0
+Excit-19,5/6,0.0
+Excit-19,6/7/8,0.0
+Excit-19,7,0.0
+Excit-19,7-IML,0.0
+Excit-19,7/8,0.0
+Excit-19,9,0.0
+Excit-19,N/A,0.0
+Excit-19,med 5,0.0
+Excit-20,1-4,0.0
+Excit-20,1/2,0.0
+Excit-20,1/2/3,0.0
+Excit-20,1/2o,0.0
+Excit-20,1/2o (2i-4),0.0
+Excit-20,1/2o (2i/3),0.0
+Excit-20,1/2o (3),0.0
+Excit-20,1/2o/2i,0.0
+Excit-20,1/2o/2i/3,0.0
+Excit-20,1/2o/4,0.0
+Excit-20,10,0.0
+Excit-20,2i (3/4),0.0
+Excit-20,2i/3,0.0
+Excit-20,2i/3 (1-4),0.0
+Excit-20,2i/3/4,0.0
+Excit-20,3 (1-4),0.0
+Excit-20,3 (1-5),0.0
+Excit-20,3/4,0.0
+Excit-20,3/4 (1/2o),0.0
+Excit-20,4,0.0
+Excit-20,4/5,1.0
+Excit-20,4/5/6,0.0
+Excit-20,4/lat 5,0.0
+Excit-20,4/med 5,0.0
+Excit-20,5,0.0
+Excit-20,5/6,0.0
+Excit-20,6/7/8,0.0
+Excit-20,7,0.0
+Excit-20,7-IML,0.0
+Excit-20,7/8,0.0
+Excit-20,9,0.0
+Excit-20,N/A,0.0
+Excit-20,med 5,0.0
+Excit-21,1-4,0.0
+Excit-21,1/2,0.0
+Excit-21,1/2/3,0.0
+Excit-21,1/2o,0.0
+Excit-21,1/2o (2i-4),0.0
+Excit-21,1/2o (2i/3),0.0
+Excit-21,1/2o (3),0.0
+Excit-21,1/2o/2i,0.0
+Excit-21,1/2o/2i/3,0.0
+Excit-21,1/2o/4,0.0
+Excit-21,10,0.0
+Excit-21,2i (3/4),0.0
+Excit-21,2i/3,0.0
+Excit-21,2i/3 (1-4),0.0
+Excit-21,2i/3/4,0.0
+Excit-21,3 (1-4),0.0
+Excit-21,3 (1-5),0.0
+Excit-21,3/4,0.0
+Excit-21,3/4 (1/2o),0.0
+Excit-21,4,0.0
+Excit-21,4/5,0.0
+Excit-21,4/5/6,0.0
+Excit-21,4/lat 5,1.0
+Excit-21,4/med 5,0.0
+Excit-21,5,0.0
+Excit-21,5/6,0.0
+Excit-21,6/7/8,0.0
+Excit-21,7,0.0
+Excit-21,7-IML,0.0
+Excit-21,7/8,0.0
+Excit-21,9,0.0
+Excit-21,N/A,0.0
+Excit-21,med 5,0.0
+Excit-22,1-4,0.0
+Excit-22,1/2,0.0
+Excit-22,1/2/3,0.0
+Excit-22,1/2o,0.0
+Excit-22,1/2o (2i-4),0.0
+Excit-22,1/2o (2i/3),0.0
+Excit-22,1/2o (3),0.0
+Excit-22,1/2o/2i,0.0
+Excit-22,1/2o/2i/3,0.0
+Excit-22,1/2o/4,0.0
+Excit-22,10,0.0
+Excit-22,2i (3/4),0.0
+Excit-22,2i/3,0.0
+Excit-22,2i/3 (1-4),0.0
+Excit-22,2i/3/4,0.0
+Excit-22,3 (1-4),0.0
+Excit-22,3 (1-5),0.0
+Excit-22,3/4,0.0
+Excit-22,3/4 (1/2o),0.0
+Excit-22,4,0.0
+Excit-22,4/5,0.0
+Excit-22,4/5/6,1.0
+Excit-22,4/lat 5,0.0
+Excit-22,4/med 5,0.0
+Excit-22,5,0.0
+Excit-22,5/6,0.0
+Excit-22,6/7/8,0.0
+Excit-22,7,0.0
+Excit-22,7-IML,0.0
+Excit-22,7/8,0.0
+Excit-22,9,0.0
+Excit-22,N/A,0.0
+Excit-22,med 5,0.0
+Excit-23,1-4,0.0
+Excit-23,1/2,0.0
+Excit-23,1/2/3,0.0
+Excit-23,1/2o,0.0
+Excit-23,1/2o (2i-4),0.0
+Excit-23,1/2o (2i/3),0.0
+Excit-23,1/2o (3),0.0
+Excit-23,1/2o/2i,0.0
+Excit-23,1/2o/2i/3,0.0
+Excit-23,1/2o/4,0.0
+Excit-23,10,0.0
+Excit-23,2i (3/4),0.0
+Excit-23,2i/3,0.0
+Excit-23,2i/3 (1-4),0.0
+Excit-23,2i/3/4,0.0
+Excit-23,3 (1-4),0.0
+Excit-23,3 (1-5),0.0
+Excit-23,3/4,0.0
+Excit-23,3/4 (1/2o),0.0
+Excit-23,4,0.0
+Excit-23,4/5,0.0
+Excit-23,4/5/6,0.0
+Excit-23,4/lat 5,0.0
+Excit-23,4/med 5,1.0
+Excit-23,5,0.0
+Excit-23,5/6,0.0
+Excit-23,6/7/8,0.0
+Excit-23,7,0.0
+Excit-23,7-IML,0.0
+Excit-23,7/8,0.0
+Excit-23,9,0.0
+Excit-23,N/A,0.0
+Excit-23,med 5,0.0
+Excit-24,1-4,0.0
+Excit-24,1/2,0.0
+Excit-24,1/2/3,0.0
+Excit-24,1/2o,0.0
+Excit-24,1/2o (2i-4),0.0
+Excit-24,1/2o (2i/3),0.0
+Excit-24,1/2o (3),0.0
+Excit-24,1/2o/2i,0.0
+Excit-24,1/2o/2i/3,0.0
+Excit-24,1/2o/4,0.0
+Excit-24,10,0.0
+Excit-24,2i (3/4),0.0
+Excit-24,2i/3,0.0
+Excit-24,2i/3 (1-4),0.0
+Excit-24,2i/3/4,0.0
+Excit-24,3 (1-4),0.0
+Excit-24,3 (1-5),0.0
+Excit-24,3/4,0.0
+Excit-24,3/4 (1/2o),0.0
+Excit-24,4,0.0
+Excit-24,4/5,0.0
+Excit-24,4/5/6,1.0
+Excit-24,4/lat 5,0.0
+Excit-24,4/med 5,0.0
+Excit-24,5,0.0
+Excit-24,5/6,0.0
+Excit-24,6/7/8,0.0
+Excit-24,7,0.0
+Excit-24,7-IML,0.0
+Excit-24,7/8,0.0
+Excit-24,9,0.0
+Excit-24,N/A,0.0
+Excit-24,med 5,0.0
+Excit-25,1-4,0.0
+Excit-25,1/2,0.0
+Excit-25,1/2/3,0.0
+Excit-25,1/2o,0.0
+Excit-25,1/2o (2i-4),0.0
+Excit-25,1/2o (2i/3),0.0
+Excit-25,1/2o (3),0.0
+Excit-25,1/2o/2i,0.0
+Excit-25,1/2o/2i/3,0.0
+Excit-25,1/2o/4,0.0
+Excit-25,10,0.0
+Excit-25,2i (3/4),0.0
+Excit-25,2i/3,0.0
+Excit-25,2i/3 (1-4),0.0
+Excit-25,2i/3/4,0.0
+Excit-25,3 (1-4),0.0
+Excit-25,3 (1-5),0.0
+Excit-25,3/4,0.0
+Excit-25,3/4 (1/2o),0.0
+Excit-25,4,0.0
+Excit-25,4/5,0.0
+Excit-25,4/5/6,1.0
+Excit-25,4/lat 5,0.0
+Excit-25,4/med 5,0.0
+Excit-25,5,0.0
+Excit-25,5/6,0.0
+Excit-25,6/7/8,0.0
+Excit-25,7,0.0
+Excit-25,7-IML,0.0
+Excit-25,7/8,0.0
+Excit-25,9,0.0
+Excit-25,N/A,0.0
+Excit-25,med 5,0.0
+Excit-29,1-4,0.0
+Excit-29,1/2,0.0
+Excit-29,1/2/3,0.0
+Excit-29,1/2o,0.0
+Excit-29,1/2o (2i-4),0.0
+Excit-29,1/2o (2i/3),0.0
+Excit-29,1/2o (3),0.0
+Excit-29,1/2o/2i,0.0
+Excit-29,1/2o/2i/3,0.0
+Excit-29,1/2o/4,0.0
+Excit-29,10,0.0
+Excit-29,2i (3/4),0.0
+Excit-29,2i/3,0.0
+Excit-29,2i/3 (1-4),0.0
+Excit-29,2i/3/4,0.0
+Excit-29,3 (1-4),0.0
+Excit-29,3 (1-5),0.0
+Excit-29,3/4,0.0
+Excit-29,3/4 (1/2o),0.0
+Excit-29,4,0.0
+Excit-29,4/5,0.0
+Excit-29,4/5/6,0.0
+Excit-29,4/lat 5,0.0
+Excit-29,4/med 5,0.0
+Excit-29,5,0.0
+Excit-29,5/6,1.0
+Excit-29,6/7/8,0.0
+Excit-29,7,0.0
+Excit-29,7-IML,0.0
+Excit-29,7/8,0.0
+Excit-29,9,0.0
+Excit-29,N/A,0.0
+Excit-29,med 5,0.0
+Excit-30,1-4,0.0
+Excit-30,1/2,0.0
+Excit-30,1/2/3,0.0
+Excit-30,1/2o,0.0
+Excit-30,1/2o (2i-4),0.0
+Excit-30,1/2o (2i/3),0.0
+Excit-30,1/2o (3),0.0
+Excit-30,1/2o/2i,0.0
+Excit-30,1/2o/2i/3,0.0
+Excit-30,1/2o/4,0.0
+Excit-30,10,0.0
+Excit-30,2i (3/4),0.0
+Excit-30,2i/3,0.0
+Excit-30,2i/3 (1-4),0.0
+Excit-30,2i/3/4,0.0
+Excit-30,3 (1-4),0.0
+Excit-30,3 (1-5),0.0
+Excit-30,3/4,0.0
+Excit-30,3/4 (1/2o),0.0
+Excit-30,4,0.0
+Excit-30,4/5,0.0
+Excit-30,4/5/6,0.0
+Excit-30,4/lat 5,0.0
+Excit-30,4/med 5,0.0
+Excit-30,5,1.0
+Excit-30,5/6,0.0
+Excit-30,6/7/8,0.0
+Excit-30,7,0.0
+Excit-30,7-IML,0.0
+Excit-30,7/8,0.0
+Excit-30,9,0.0
+Excit-30,N/A,0.0
+Excit-30,med 5,0.0
+Excit-31,1-4,0.0
+Excit-31,1/2,0.0
+Excit-31,1/2/3,0.0
+Excit-31,1/2o,0.0
+Excit-31,1/2o (2i-4),0.0
+Excit-31,1/2o (2i/3),0.0
+Excit-31,1/2o (3),0.0
+Excit-31,1/2o/2i,0.0
+Excit-31,1/2o/2i/3,0.0
+Excit-31,1/2o/4,0.0
+Excit-31,10,0.0
+Excit-31,2i (3/4),0.0
+Excit-31,2i/3,0.0
+Excit-31,2i/3 (1-4),0.0
+Excit-31,2i/3/4,0.0
+Excit-31,3 (1-4),0.0
+Excit-31,3 (1-5),0.0
+Excit-31,3/4,0.0
+Excit-31,3/4 (1/2o),0.0
+Excit-31,4,0.0
+Excit-31,4/5,0.0
+Excit-31,4/5/6,0.0
+Excit-31,4/lat 5,0.0
+Excit-31,4/med 5,0.0
+Excit-31,5,0.0
+Excit-31,5/6,0.0
+Excit-31,6/7/8,1.0
+Excit-31,7,0.0
+Excit-31,7-IML,0.0
+Excit-31,7/8,0.0
+Excit-31,9,0.0
+Excit-31,N/A,0.0
+Excit-31,med 5,0.0
+Excit-32,1-4,0.0
+Excit-32,1/2,0.0
+Excit-32,1/2/3,0.0
+Excit-32,1/2o,0.0
+Excit-32,1/2o (2i-4),0.0
+Excit-32,1/2o (2i/3),0.0
+Excit-32,1/2o (3),0.0
+Excit-32,1/2o/2i,0.0
+Excit-32,1/2o/2i/3,0.0
+Excit-32,1/2o/4,0.0
+Excit-32,10,0.0
+Excit-32,2i (3/4),0.0
+Excit-32,2i/3,0.0
+Excit-32,2i/3 (1-4),0.0
+Excit-32,2i/3/4,0.0
+Excit-32,3 (1-4),0.0
+Excit-32,3 (1-5),0.0
+Excit-32,3/4,0.0
+Excit-32,3/4 (1/2o),0.0
+Excit-32,4,0.0
+Excit-32,4/5,0.0
+Excit-32,4/5/6,0.0
+Excit-32,4/lat 5,0.0
+Excit-32,4/med 5,0.0
+Excit-32,5,0.0
+Excit-32,5/6,0.0
+Excit-32,6/7/8,1.0
+Excit-32,7,0.0
+Excit-32,7-IML,0.0
+Excit-32,7/8,0.0
+Excit-32,9,0.0
+Excit-32,N/A,0.0
+Excit-32,med 5,0.0
+Excit-34,1-4,0.0
+Excit-34,1/2,0.0
+Excit-34,1/2/3,0.0
+Excit-34,1/2o,0.0
+Excit-34,1/2o (2i-4),0.0
+Excit-34,1/2o (2i/3),0.0
+Excit-34,1/2o (3),0.0
+Excit-34,1/2o/2i,0.0
+Excit-34,1/2o/2i/3,0.0
+Excit-34,1/2o/4,0.0
+Excit-34,10,0.0
+Excit-34,2i (3/4),0.0
+Excit-34,2i/3,0.0
+Excit-34,2i/3 (1-4),0.0
+Excit-34,2i/3/4,0.0
+Excit-34,3 (1-4),0.0
+Excit-34,3 (1-5),0.0
+Excit-34,3/4,0.0
+Excit-34,3/4 (1/2o),0.0
+Excit-34,4,0.0
+Excit-34,4/5,0.0
+Excit-34,4/5/6,0.0
+Excit-34,4/lat 5,0.0
+Excit-34,4/med 5,0.0
+Excit-34,5,0.0
+Excit-34,5/6,0.0
+Excit-34,6/7/8,1.0
+Excit-34,7,0.0
+Excit-34,7-IML,0.0
+Excit-34,7/8,0.0
+Excit-34,9,0.0
+Excit-34,N/A,0.0
+Excit-34,med 5,0.0
+Excit-38,1-4,0.0
+Excit-38,1/2,0.0
+Excit-38,1/2/3,0.0
+Excit-38,1/2o,0.0
+Excit-38,1/2o (2i-4),0.0
+Excit-38,1/2o (2i/3),0.0
+Excit-38,1/2o (3),0.0
+Excit-38,1/2o/2i,0.0
+Excit-38,1/2o/2i/3,0.0
+Excit-38,1/2o/4,0.0
+Excit-38,10,0.0
+Excit-38,2i (3/4),0.0
+Excit-38,2i/3,0.0
+Excit-38,2i/3 (1-4),0.0
+Excit-38,2i/3/4,0.0
+Excit-38,3 (1-4),0.0
+Excit-38,3 (1-5),0.0
+Excit-38,3/4,0.0
+Excit-38,3/4 (1/2o),0.0
+Excit-38,4,0.0
+Excit-38,4/5,0.0
+Excit-38,4/5/6,0.0
+Excit-38,4/lat 5,0.0
+Excit-38,4/med 5,0.0
+Excit-38,5,0.0
+Excit-38,5/6,0.0
+Excit-38,6/7/8,0.0
+Excit-38,7,0.0
+Excit-38,7-IML,0.0
+Excit-38,7/8,0.0
+Excit-38,9,0.0
+Excit-38,N/A,1.0
+Excit-38,med 5,0.0
+Inhib-01,1-4,0.0
+Inhib-01,1/2,0.0
+Inhib-01,1/2/3,0.0
+Inhib-01,1/2o,0.0
+Inhib-01,1/2o (2i-4),0.0
+Inhib-01,1/2o (2i/3),0.0
+Inhib-01,1/2o (3),0.0
+Inhib-01,1/2o/2i,0.0
+Inhib-01,1/2o/2i/3,0.0
+Inhib-01,1/2o/4,0.0
+Inhib-01,10,0.0
+Inhib-01,2i (3/4),0.0
+Inhib-01,2i/3,0.0
+Inhib-01,2i/3 (1-4),0.0
+Inhib-01,2i/3/4,0.0
+Inhib-01,3 (1-4),1.0
+Inhib-01,3 (1-5),0.0
+Inhib-01,3/4,0.0
+Inhib-01,3/4 (1/2o),0.0
+Inhib-01,4,0.0
+Inhib-01,4/5,0.0
+Inhib-01,4/5/6,0.0
+Inhib-01,4/lat 5,0.0
+Inhib-01,4/med 5,0.0
+Inhib-01,5,0.0
+Inhib-01,5/6,0.0
+Inhib-01,6/7/8,0.0
+Inhib-01,7,0.0
+Inhib-01,7-IML,0.0
+Inhib-01,7/8,0.0
+Inhib-01,9,0.0
+Inhib-01,N/A,0.0
+Inhib-01,med 5,0.0
+Inhib-02,1-4,0.0
+Inhib-02,1/2,0.0
+Inhib-02,1/2/3,0.0
+Inhib-02,1/2o,0.0
+Inhib-02,1/2o (2i-4),0.0
+Inhib-02,1/2o (2i/3),0.0
+Inhib-02,1/2o (3),0.0
+Inhib-02,1/2o/2i,0.0
+Inhib-02,1/2o/2i/3,0.0
+Inhib-02,1/2o/4,0.0
+Inhib-02,10,0.0
+Inhib-02,2i (3/4),0.0
+Inhib-02,2i/3,0.0
+Inhib-02,2i/3 (1-4),0.0
+Inhib-02,2i/3/4,0.0
+Inhib-02,3 (1-4),1.0
+Inhib-02,3 (1-5),0.0
+Inhib-02,3/4,0.0
+Inhib-02,3/4 (1/2o),0.0
+Inhib-02,4,0.0
+Inhib-02,4/5,0.0
+Inhib-02,4/5/6,0.0
+Inhib-02,4/lat 5,0.0
+Inhib-02,4/med 5,0.0
+Inhib-02,5,0.0
+Inhib-02,5/6,0.0
+Inhib-02,6/7/8,0.0
+Inhib-02,7,0.0
+Inhib-02,7-IML,0.0
+Inhib-02,7/8,0.0
+Inhib-02,9,0.0
+Inhib-02,N/A,0.0
+Inhib-02,med 5,0.0
+Inhib-03,1-4,1.0
+Inhib-03,1/2,0.0
+Inhib-03,1/2/3,0.0
+Inhib-03,1/2o,0.0
+Inhib-03,1/2o (2i-4),0.0
+Inhib-03,1/2o (2i/3),0.0
+Inhib-03,1/2o (3),0.0
+Inhib-03,1/2o/2i,0.0
+Inhib-03,1/2o/2i/3,0.0
+Inhib-03,1/2o/4,0.0
+Inhib-03,10,0.0
+Inhib-03,2i (3/4),0.0
+Inhib-03,2i/3,0.0
+Inhib-03,2i/3 (1-4),0.0
+Inhib-03,2i/3/4,0.0
+Inhib-03,3 (1-4),0.0
+Inhib-03,3 (1-5),0.0
+Inhib-03,3/4,0.0
+Inhib-03,3/4 (1/2o),0.0
+Inhib-03,4,0.0
+Inhib-03,4/5,0.0
+Inhib-03,4/5/6,0.0
+Inhib-03,4/lat 5,0.0
+Inhib-03,4/med 5,0.0
+Inhib-03,5,0.0
+Inhib-03,5/6,0.0
+Inhib-03,6/7/8,0.0
+Inhib-03,7,0.0
+Inhib-03,7-IML,0.0
+Inhib-03,7/8,0.0
+Inhib-03,9,0.0
+Inhib-03,N/A,0.0
+Inhib-03,med 5,0.0
+Inhib-04,1-4,0.0
+Inhib-04,1/2,0.0
+Inhib-04,1/2/3,0.0
+Inhib-04,1/2o,0.0
+Inhib-04,1/2o (2i-4),0.0
+Inhib-04,1/2o (2i/3),0.0
+Inhib-04,1/2o (3),0.0
+Inhib-04,1/2o/2i,1.0
+Inhib-04,1/2o/2i/3,0.0
+Inhib-04,1/2o/4,0.0
+Inhib-04,10,0.0
+Inhib-04,2i (3/4),0.0
+Inhib-04,2i/3,0.0
+Inhib-04,2i/3 (1-4),0.0
+Inhib-04,2i/3/4,0.0
+Inhib-04,3 (1-4),0.0
+Inhib-04,3 (1-5),0.0
+Inhib-04,3/4,0.0
+Inhib-04,3/4 (1/2o),0.0
+Inhib-04,4,0.0
+Inhib-04,4/5,0.0
+Inhib-04,4/5/6,0.0
+Inhib-04,4/lat 5,0.0
+Inhib-04,4/med 5,0.0
+Inhib-04,5,0.0
+Inhib-04,5/6,0.0
+Inhib-04,6/7/8,0.0
+Inhib-04,7,0.0
+Inhib-04,7-IML,0.0
+Inhib-04,7/8,0.0
+Inhib-04,9,0.0
+Inhib-04,N/A,0.0
+Inhib-04,med 5,0.0
+Inhib-05,1-4,0.0
+Inhib-05,1/2,0.0
+Inhib-05,1/2/3,0.0
+Inhib-05,1/2o,0.0
+Inhib-05,1/2o (2i-4),0.0
+Inhib-05,1/2o (2i/3),0.0
+Inhib-05,1/2o (3),1.0
+Inhib-05,1/2o/2i,0.0
+Inhib-05,1/2o/2i/3,0.0
+Inhib-05,1/2o/4,0.0
+Inhib-05,10,0.0
+Inhib-05,2i (3/4),0.0
+Inhib-05,2i/3,0.0
+Inhib-05,2i/3 (1-4),0.0
+Inhib-05,2i/3/4,0.0
+Inhib-05,3 (1-4),0.0
+Inhib-05,3 (1-5),0.0
+Inhib-05,3/4,0.0
+Inhib-05,3/4 (1/2o),0.0
+Inhib-05,4,0.0
+Inhib-05,4/5,0.0
+Inhib-05,4/5/6,0.0
+Inhib-05,4/lat 5,0.0
+Inhib-05,4/med 5,0.0
+Inhib-05,5,0.0
+Inhib-05,5/6,0.0
+Inhib-05,6/7/8,0.0
+Inhib-05,7,0.0
+Inhib-05,7-IML,0.0
+Inhib-05,7/8,0.0
+Inhib-05,9,0.0
+Inhib-05,N/A,0.0
+Inhib-05,med 5,0.0
+Inhib-06,1-4,0.0
+Inhib-06,1/2,0.0
+Inhib-06,1/2/3,0.0
+Inhib-06,1/2o,0.0
+Inhib-06,1/2o (2i-4),0.0
+Inhib-06,1/2o (2i/3),0.0
+Inhib-06,1/2o (3),0.0
+Inhib-06,1/2o/2i,0.0
+Inhib-06,1/2o/2i/3,0.0
+Inhib-06,1/2o/4,0.0
+Inhib-06,10,0.0
+Inhib-06,2i (3/4),0.0
+Inhib-06,2i/3,0.0
+Inhib-06,2i/3 (1-4),0.0
+Inhib-06,2i/3/4,0.0
+Inhib-06,3 (1-4),0.0
+Inhib-06,3 (1-5),0.0
+Inhib-06,3/4,0.0
+Inhib-06,3/4 (1/2o),1.0
+Inhib-06,4,0.0
+Inhib-06,4/5,0.0
+Inhib-06,4/5/6,0.0
+Inhib-06,4/lat 5,0.0
+Inhib-06,4/med 5,0.0
+Inhib-06,5,0.0
+Inhib-06,5/6,0.0
+Inhib-06,6/7/8,0.0
+Inhib-06,7,0.0
+Inhib-06,7-IML,0.0
+Inhib-06,7/8,0.0
+Inhib-06,9,0.0
+Inhib-06,N/A,0.0
+Inhib-06,med 5,0.0
+Inhib-07,1-4,0.0
+Inhib-07,1/2,0.0
+Inhib-07,1/2/3,0.0
+Inhib-07,1/2o,0.0
+Inhib-07,1/2o (2i-4),0.0
+Inhib-07,1/2o (2i/3),0.0
+Inhib-07,1/2o (3),0.0
+Inhib-07,1/2o/2i,0.0
+Inhib-07,1/2o/2i/3,0.0
+Inhib-07,1/2o/4,0.0
+Inhib-07,10,0.0
+Inhib-07,2i (3/4),0.0
+Inhib-07,2i/3,0.0
+Inhib-07,2i/3 (1-4),1.0
+Inhib-07,2i/3/4,0.0
+Inhib-07,3 (1-4),0.0
+Inhib-07,3 (1-5),0.0
+Inhib-07,3/4,0.0
+Inhib-07,3/4 (1/2o),0.0
+Inhib-07,4,0.0
+Inhib-07,4/5,0.0
+Inhib-07,4/5/6,0.0
+Inhib-07,4/lat 5,0.0
+Inhib-07,4/med 5,0.0
+Inhib-07,5,0.0
+Inhib-07,5/6,0.0
+Inhib-07,6/7/8,0.0
+Inhib-07,7,0.0
+Inhib-07,7-IML,0.0
+Inhib-07,7/8,0.0
+Inhib-07,9,0.0
+Inhib-07,N/A,0.0
+Inhib-07,med 5,0.0
+Inhib-08,1-4,0.0
+Inhib-08,1/2,0.0
+Inhib-08,1/2/3,0.0
+Inhib-08,1/2o,0.0
+Inhib-08,1/2o (2i-4),0.0
+Inhib-08,1/2o (2i/3),0.0
+Inhib-08,1/2o (3),0.0
+Inhib-08,1/2o/2i,0.0
+Inhib-08,1/2o/2i/3,0.0
+Inhib-08,1/2o/4,0.0
+Inhib-08,10,0.0
+Inhib-08,2i (3/4),0.0
+Inhib-08,2i/3,0.0
+Inhib-08,2i/3 (1-4),0.0
+Inhib-08,2i/3/4,0.0
+Inhib-08,3 (1-4),0.0
+Inhib-08,3 (1-5),0.0
+Inhib-08,3/4,1.0
+Inhib-08,3/4 (1/2o),0.0
+Inhib-08,4,0.0
+Inhib-08,4/5,0.0
+Inhib-08,4/5/6,0.0
+Inhib-08,4/lat 5,0.0
+Inhib-08,4/med 5,0.0
+Inhib-08,5,0.0
+Inhib-08,5/6,0.0
+Inhib-08,6/7/8,0.0
+Inhib-08,7,0.0
+Inhib-08,7-IML,0.0
+Inhib-08,7/8,0.0
+Inhib-08,9,0.0
+Inhib-08,N/A,0.0
+Inhib-08,med 5,0.0
+Inhib-09,1-4,0.0
+Inhib-09,1/2,0.0
+Inhib-09,1/2/3,0.0
+Inhib-09,1/2o,0.0
+Inhib-09,1/2o (2i-4),0.0
+Inhib-09,1/2o (2i/3),1.0
+Inhib-09,1/2o (3),0.0
+Inhib-09,1/2o/2i,0.0
+Inhib-09,1/2o/2i/3,0.0
+Inhib-09,1/2o/4,0.0
+Inhib-09,10,0.0
+Inhib-09,2i (3/4),0.0
+Inhib-09,2i/3,0.0
+Inhib-09,2i/3 (1-4),0.0
+Inhib-09,2i/3/4,0.0
+Inhib-09,3 (1-4),0.0
+Inhib-09,3 (1-5),0.0
+Inhib-09,3/4,0.0
+Inhib-09,3/4 (1/2o),0.0
+Inhib-09,4,0.0
+Inhib-09,4/5,0.0
+Inhib-09,4/5/6,0.0
+Inhib-09,4/lat 5,0.0
+Inhib-09,4/med 5,0.0
+Inhib-09,5,0.0
+Inhib-09,5/6,0.0
+Inhib-09,6/7/8,0.0
+Inhib-09,7,0.0
+Inhib-09,7-IML,0.0
+Inhib-09,7/8,0.0
+Inhib-09,9,0.0
+Inhib-09,N/A,0.0
+Inhib-09,med 5,0.0
+Inhib-10,1-4,0.0
+Inhib-10,1/2,0.0
+Inhib-10,1/2/3,0.0
+Inhib-10,1/2o,0.0
+Inhib-10,1/2o (2i-4),0.0
+Inhib-10,1/2o (2i/3),0.0
+Inhib-10,1/2o (3),0.0
+Inhib-10,1/2o/2i,0.0
+Inhib-10,1/2o/2i/3,0.0
+Inhib-10,1/2o/4,0.0
+Inhib-10,10,0.0
+Inhib-10,2i (3/4),0.0
+Inhib-10,2i/3,0.0
+Inhib-10,2i/3 (1-4),0.0
+Inhib-10,2i/3/4,0.0
+Inhib-10,3 (1-4),0.0
+Inhib-10,3 (1-5),1.0
+Inhib-10,3/4,0.0
+Inhib-10,3/4 (1/2o),0.0
+Inhib-10,4,0.0
+Inhib-10,4/5,0.0
+Inhib-10,4/5/6,0.0
+Inhib-10,4/lat 5,0.0
+Inhib-10,4/med 5,0.0
+Inhib-10,5,0.0
+Inhib-10,5/6,0.0
+Inhib-10,6/7/8,0.0
+Inhib-10,7,0.0
+Inhib-10,7-IML,0.0
+Inhib-10,7/8,0.0
+Inhib-10,9,0.0
+Inhib-10,N/A,0.0
+Inhib-10,med 5,0.0
+Inhib-11,1-4,0.0
+Inhib-11,1/2,0.0
+Inhib-11,1/2/3,0.0
+Inhib-11,1/2o,0.0
+Inhib-11,1/2o (2i-4),0.0
+Inhib-11,1/2o (2i/3),0.0
+Inhib-11,1/2o (3),0.0
+Inhib-11,1/2o/2i,0.0
+Inhib-11,1/2o/2i/3,1.0
+Inhib-11,1/2o/4,0.0
+Inhib-11,10,0.0
+Inhib-11,2i (3/4),0.0
+Inhib-11,2i/3,0.0
+Inhib-11,2i/3 (1-4),0.0
+Inhib-11,2i/3/4,0.0
+Inhib-11,3 (1-4),0.0
+Inhib-11,3 (1-5),0.0
+Inhib-11,3/4,0.0
+Inhib-11,3/4 (1/2o),0.0
+Inhib-11,4,0.0
+Inhib-11,4/5,0.0
+Inhib-11,4/5/6,0.0
+Inhib-11,4/lat 5,0.0
+Inhib-11,4/med 5,0.0
+Inhib-11,5,0.0
+Inhib-11,5/6,0.0
+Inhib-11,6/7/8,0.0
+Inhib-11,7,0.0
+Inhib-11,7-IML,0.0
+Inhib-11,7/8,0.0
+Inhib-11,9,0.0
+Inhib-11,N/A,0.0
+Inhib-11,med 5,0.0
+Inhib-12,1-4,0.0
+Inhib-12,1/2,0.0
+Inhib-12,1/2/3,0.0
+Inhib-12,1/2o,0.0
+Inhib-12,1/2o (2i-4),0.0
+Inhib-12,1/2o (2i/3),0.0
+Inhib-12,1/2o (3),0.0
+Inhib-12,1/2o/2i,0.0
+Inhib-12,1/2o/2i/3,0.0
+Inhib-12,1/2o/4,1.0
+Inhib-12,10,0.0
+Inhib-12,2i (3/4),0.0
+Inhib-12,2i/3,0.0
+Inhib-12,2i/3 (1-4),0.0
+Inhib-12,2i/3/4,0.0
+Inhib-12,3 (1-4),0.0
+Inhib-12,3 (1-5),0.0
+Inhib-12,3/4,0.0
+Inhib-12,3/4 (1/2o),0.0
+Inhib-12,4,0.0
+Inhib-12,4/5,0.0
+Inhib-12,4/5/6,0.0
+Inhib-12,4/lat 5,0.0
+Inhib-12,4/med 5,0.0
+Inhib-12,5,0.0
+Inhib-12,5/6,0.0
+Inhib-12,6/7/8,0.0
+Inhib-12,7,0.0
+Inhib-12,7-IML,0.0
+Inhib-12,7/8,0.0
+Inhib-12,9,0.0
+Inhib-12,N/A,0.0
+Inhib-12,med 5,0.0
+Inhib-13,1-4,0.0
+Inhib-13,1/2,0.0
+Inhib-13,1/2/3,0.0
+Inhib-13,1/2o,0.0
+Inhib-13,1/2o (2i-4),0.0
+Inhib-13,1/2o (2i/3),0.0
+Inhib-13,1/2o (3),0.0
+Inhib-13,1/2o/2i,1.0
+Inhib-13,1/2o/2i/3,0.0
+Inhib-13,1/2o/4,0.0
+Inhib-13,10,0.0
+Inhib-13,2i (3/4),0.0
+Inhib-13,2i/3,0.0
+Inhib-13,2i/3 (1-4),0.0
+Inhib-13,2i/3/4,0.0
+Inhib-13,3 (1-4),0.0
+Inhib-13,3 (1-5),0.0
+Inhib-13,3/4,0.0
+Inhib-13,3/4 (1/2o),0.0
+Inhib-13,4,0.0
+Inhib-13,4/5,0.0
+Inhib-13,4/5/6,0.0
+Inhib-13,4/lat 5,0.0
+Inhib-13,4/med 5,0.0
+Inhib-13,5,0.0
+Inhib-13,5/6,0.0
+Inhib-13,6/7/8,0.0
+Inhib-13,7,0.0
+Inhib-13,7-IML,0.0
+Inhib-13,7/8,0.0
+Inhib-13,9,0.0
+Inhib-13,N/A,0.0
+Inhib-13,med 5,0.0
+Inhib-14,1-4,0.0
+Inhib-14,1/2,0.0
+Inhib-14,1/2/3,0.0
+Inhib-14,1/2o,0.0
+Inhib-14,1/2o (2i-4),0.0
+Inhib-14,1/2o (2i/3),0.0
+Inhib-14,1/2o (3),0.0
+Inhib-14,1/2o/2i,0.0
+Inhib-14,1/2o/2i/3,0.0
+Inhib-14,1/2o/4,0.0
+Inhib-14,10,0.0
+Inhib-14,2i (3/4),0.0
+Inhib-14,2i/3,0.0
+Inhib-14,2i/3 (1-4),0.0
+Inhib-14,2i/3/4,0.0
+Inhib-14,3 (1-4),0.0
+Inhib-14,3 (1-5),0.0
+Inhib-14,3/4,0.0
+Inhib-14,3/4 (1/2o),0.0
+Inhib-14,4,1.0
+Inhib-14,4/5,0.0
+Inhib-14,4/5/6,0.0
+Inhib-14,4/lat 5,0.0
+Inhib-14,4/med 5,0.0
+Inhib-14,5,0.0
+Inhib-14,5/6,0.0
+Inhib-14,6/7/8,0.0
+Inhib-14,7,0.0
+Inhib-14,7-IML,0.0
+Inhib-14,7/8,0.0
+Inhib-14,9,0.0
+Inhib-14,N/A,0.0
+Inhib-14,med 5,0.0
+Inhib-15,1-4,0.0
+Inhib-15,1/2,0.0
+Inhib-15,1/2/3,0.0
+Inhib-15,1/2o,0.0
+Inhib-15,1/2o (2i-4),0.0
+Inhib-15,1/2o (2i/3),0.0
+Inhib-15,1/2o (3),0.0
+Inhib-15,1/2o/2i,0.0
+Inhib-15,1/2o/2i/3,0.0
+Inhib-15,1/2o/4,0.0
+Inhib-15,10,0.0
+Inhib-15,2i (3/4),0.0
+Inhib-15,2i/3,0.0
+Inhib-15,2i/3 (1-4),0.0
+Inhib-15,2i/3/4,0.0
+Inhib-15,3 (1-4),0.0
+Inhib-15,3 (1-5),0.0
+Inhib-15,3/4,0.0
+Inhib-15,3/4 (1/2o),0.0
+Inhib-15,4,0.0
+Inhib-15,4/5,0.0
+Inhib-15,4/5/6,0.0
+Inhib-15,4/lat 5,0.0
+Inhib-15,4/med 5,0.0
+Inhib-15,5,0.0
+Inhib-15,5/6,0.0
+Inhib-15,6/7/8,0.0
+Inhib-15,7,0.0
+Inhib-15,7-IML,0.0
+Inhib-15,7/8,0.0
+Inhib-15,9,0.0
+Inhib-15,N/A,0.0
+Inhib-15,med 5,1.0
+Inhib-16,1-4,0.0
+Inhib-16,1/2,0.0
+Inhib-16,1/2/3,0.0
+Inhib-16,1/2o,0.0
+Inhib-16,1/2o (2i-4),0.0
+Inhib-16,1/2o (2i/3),0.0
+Inhib-16,1/2o (3),0.0
+Inhib-16,1/2o/2i,0.0
+Inhib-16,1/2o/2i/3,0.0
+Inhib-16,1/2o/4,0.0
+Inhib-16,10,0.0
+Inhib-16,2i (3/4),0.0
+Inhib-16,2i/3,0.0
+Inhib-16,2i/3 (1-4),0.0
+Inhib-16,2i/3/4,0.0
+Inhib-16,3 (1-4),0.0
+Inhib-16,3 (1-5),0.0
+Inhib-16,3/4,0.0
+Inhib-16,3/4 (1/2o),0.0
+Inhib-16,4,0.0
+Inhib-16,4/5,0.0
+Inhib-16,4/5/6,0.0
+Inhib-16,4/lat 5,0.0
+Inhib-16,4/med 5,0.0
+Inhib-16,5,0.0
+Inhib-16,5/6,0.0
+Inhib-16,6/7/8,0.0
+Inhib-16,7,0.0
+Inhib-16,7-IML,0.0
+Inhib-16,7/8,0.0
+Inhib-16,9,0.0
+Inhib-16,N/A,0.0
+Inhib-16,med 5,1.0
+Inhib-17,1-4,0.0
+Inhib-17,1/2,0.0
+Inhib-17,1/2/3,0.0
+Inhib-17,1/2o,0.0
+Inhib-17,1/2o (2i-4),0.0
+Inhib-17,1/2o (2i/3),0.0
+Inhib-17,1/2o (3),0.0
+Inhib-17,1/2o/2i,0.0
+Inhib-17,1/2o/2i/3,0.0
+Inhib-17,1/2o/4,0.0
+Inhib-17,10,0.0
+Inhib-17,2i (3/4),0.0
+Inhib-17,2i/3,0.0
+Inhib-17,2i/3 (1-4),0.0
+Inhib-17,2i/3/4,0.0
+Inhib-17,3 (1-4),0.0
+Inhib-17,3 (1-5),0.0
+Inhib-17,3/4,0.0
+Inhib-17,3/4 (1/2o),0.0
+Inhib-17,4,0.0
+Inhib-17,4/5,0.0
+Inhib-17,4/5/6,0.0
+Inhib-17,4/lat 5,0.0
+Inhib-17,4/med 5,0.0
+Inhib-17,5,0.0
+Inhib-17,5/6,0.0
+Inhib-17,6/7/8,0.0
+Inhib-17,7,0.0
+Inhib-17,7-IML,0.0
+Inhib-17,7/8,0.0
+Inhib-17,9,0.0
+Inhib-17,N/A,1.0
+Inhib-17,med 5,0.0
+Inhib-18,1-4,0.0
+Inhib-18,1/2,0.0
+Inhib-18,1/2/3,0.0
+Inhib-18,1/2o,0.0
+Inhib-18,1/2o (2i-4),0.0
+Inhib-18,1/2o (2i/3),0.0
+Inhib-18,1/2o (3),0.0
+Inhib-18,1/2o/2i,0.0
+Inhib-18,1/2o/2i/3,0.0
+Inhib-18,1/2o/4,0.0
+Inhib-18,10,0.0
+Inhib-18,2i (3/4),0.0
+Inhib-18,2i/3,0.0
+Inhib-18,2i/3 (1-4),0.0
+Inhib-18,2i/3/4,0.0
+Inhib-18,3 (1-4),0.0
+Inhib-18,3 (1-5),0.0
+Inhib-18,3/4,0.0
+Inhib-18,3/4 (1/2o),0.0
+Inhib-18,4,0.0
+Inhib-18,4/5,0.0
+Inhib-18,4/5/6,0.0
+Inhib-18,4/lat 5,0.0
+Inhib-18,4/med 5,0.0
+Inhib-18,5,0.0
+Inhib-18,5/6,1.0
+Inhib-18,6/7/8,0.0
+Inhib-18,7,0.0
+Inhib-18,7-IML,0.0
+Inhib-18,7/8,0.0
+Inhib-18,9,0.0
+Inhib-18,N/A,0.0
+Inhib-18,med 5,0.0
+Inhib-19,1-4,0.0
+Inhib-19,1/2,0.0
+Inhib-19,1/2/3,0.0
+Inhib-19,1/2o,0.0
+Inhib-19,1/2o (2i-4),0.0
+Inhib-19,1/2o (2i/3),0.0
+Inhib-19,1/2o (3),0.0
+Inhib-19,1/2o/2i,0.0
+Inhib-19,1/2o/2i/3,0.0
+Inhib-19,1/2o/4,0.0
+Inhib-19,10,0.0
+Inhib-19,2i (3/4),0.0
+Inhib-19,2i/3,0.0
+Inhib-19,2i/3 (1-4),0.0
+Inhib-19,2i/3/4,0.0
+Inhib-19,3 (1-4),0.0
+Inhib-19,3 (1-5),0.0
+Inhib-19,3/4,0.0
+Inhib-19,3/4 (1/2o),0.0
+Inhib-19,4,0.0
+Inhib-19,4/5,0.0
+Inhib-19,4/5/6,0.0
+Inhib-19,4/lat 5,0.0
+Inhib-19,4/med 5,0.0
+Inhib-19,5,0.0
+Inhib-19,5/6,0.0
+Inhib-19,6/7/8,0.0
+Inhib-19,7,0.0
+Inhib-19,7-IML,0.0
+Inhib-19,7/8,0.0
+Inhib-19,9,0.0
+Inhib-19,N/A,0.0
+Inhib-19,med 5,1.0
+Inhib-20,1-4,0.0
+Inhib-20,1/2,0.0
+Inhib-20,1/2/3,0.0
+Inhib-20,1/2o,0.0
+Inhib-20,1/2o (2i-4),0.0
+Inhib-20,1/2o (2i/3),0.0
+Inhib-20,1/2o (3),0.0
+Inhib-20,1/2o/2i,0.0
+Inhib-20,1/2o/2i/3,0.0
+Inhib-20,1/2o/4,0.0
+Inhib-20,10,0.0
+Inhib-20,2i (3/4),0.0
+Inhib-20,2i/3,0.0
+Inhib-20,2i/3 (1-4),0.0
+Inhib-20,2i/3/4,0.0
+Inhib-20,3 (1-4),0.0
+Inhib-20,3 (1-5),0.0
+Inhib-20,3/4,0.0
+Inhib-20,3/4 (1/2o),0.0
+Inhib-20,4,0.0
+Inhib-20,4/5,0.0
+Inhib-20,4/5/6,0.0
+Inhib-20,4/lat 5,0.0
+Inhib-20,4/med 5,0.0
+Inhib-20,5,0.0
+Inhib-20,5/6,1.0
+Inhib-20,6/7/8,0.0
+Inhib-20,7,0.0
+Inhib-20,7-IML,0.0
+Inhib-20,7/8,0.0
+Inhib-20,9,0.0
+Inhib-20,N/A,0.0
+Inhib-20,med 5,0.0
+Inhib-22,1-4,0.0
+Inhib-22,1/2,0.0
+Inhib-22,1/2/3,0.0
+Inhib-22,1/2o,0.0
+Inhib-22,1/2o (2i-4),0.0
+Inhib-22,1/2o (2i/3),0.0
+Inhib-22,1/2o (3),0.0
+Inhib-22,1/2o/2i,0.0
+Inhib-22,1/2o/2i/3,0.0
+Inhib-22,1/2o/4,0.0
+Inhib-22,10,0.0
+Inhib-22,2i (3/4),0.0
+Inhib-22,2i/3,0.0
+Inhib-22,2i/3 (1-4),0.0
+Inhib-22,2i/3/4,0.0
+Inhib-22,3 (1-4),0.0
+Inhib-22,3 (1-5),0.0
+Inhib-22,3/4,0.0
+Inhib-22,3/4 (1/2o),0.0
+Inhib-22,4,0.0
+Inhib-22,4/5,0.0
+Inhib-22,4/5/6,0.0
+Inhib-22,4/lat 5,0.0
+Inhib-22,4/med 5,0.0
+Inhib-22,5,0.0
+Inhib-22,5/6,0.0
+Inhib-22,6/7/8,0.0
+Inhib-22,7,1.0
+Inhib-22,7-IML,0.0
+Inhib-22,7/8,0.0
+Inhib-22,9,0.0
+Inhib-22,N/A,0.0
+Inhib-22,med 5,0.0
+Inhib-23,1-4,0.0
+Inhib-23,1/2,0.0
+Inhib-23,1/2/3,0.0
+Inhib-23,1/2o,0.0
+Inhib-23,1/2o (2i-4),0.0
+Inhib-23,1/2o (2i/3),0.0
+Inhib-23,1/2o (3),0.0
+Inhib-23,1/2o/2i,0.0
+Inhib-23,1/2o/2i/3,0.0
+Inhib-23,1/2o/4,0.0
+Inhib-23,10,0.0
+Inhib-23,2i (3/4),0.0
+Inhib-23,2i/3,0.0
+Inhib-23,2i/3 (1-4),0.0
+Inhib-23,2i/3/4,0.0
+Inhib-23,3 (1-4),0.0
+Inhib-23,3 (1-5),0.0
+Inhib-23,3/4,0.0
+Inhib-23,3/4 (1/2o),0.0
+Inhib-23,4,0.0
+Inhib-23,4/5,0.0
+Inhib-23,4/5/6,0.0
+Inhib-23,4/lat 5,0.0
+Inhib-23,4/med 5,0.0
+Inhib-23,5,0.0
+Inhib-23,5/6,0.0
+Inhib-23,6/7/8,0.0
+Inhib-23,7,0.0
+Inhib-23,7-IML,0.0
+Inhib-23,7/8,1.0
+Inhib-23,9,0.0
+Inhib-23,N/A,0.0
+Inhib-23,med 5,0.0
+Inhib-24,1-4,0.0
+Inhib-24,1/2,0.0
+Inhib-24,1/2/3,0.0
+Inhib-24,1/2o,0.0
+Inhib-24,1/2o (2i-4),0.0
+Inhib-24,1/2o (2i/3),0.0
+Inhib-24,1/2o (3),0.0
+Inhib-24,1/2o/2i,0.0
+Inhib-24,1/2o/2i/3,0.0
+Inhib-24,1/2o/4,0.0
+Inhib-24,10,0.0
+Inhib-24,2i (3/4),0.0
+Inhib-24,2i/3,0.0
+Inhib-24,2i/3 (1-4),0.0
+Inhib-24,2i/3/4,0.0
+Inhib-24,3 (1-4),0.0
+Inhib-24,3 (1-5),0.0
+Inhib-24,3/4,0.0
+Inhib-24,3/4 (1/2o),0.0
+Inhib-24,4,0.0
+Inhib-24,4/5,0.0
+Inhib-24,4/5/6,0.0
+Inhib-24,4/lat 5,0.0
+Inhib-24,4/med 5,0.0
+Inhib-24,5,0.0
+Inhib-24,5/6,0.0
+Inhib-24,6/7/8,0.0
+Inhib-24,7,1.0
+Inhib-24,7-IML,0.0
+Inhib-24,7/8,0.0
+Inhib-24,9,0.0
+Inhib-24,N/A,0.0
+Inhib-24,med 5,0.0
+Inhib-27,1-4,0.0
+Inhib-27,1/2,0.0
+Inhib-27,1/2/3,0.0
+Inhib-27,1/2o,0.0
+Inhib-27,1/2o (2i-4),0.0
+Inhib-27,1/2o (2i/3),0.0
+Inhib-27,1/2o (3),0.0
+Inhib-27,1/2o/2i,0.0
+Inhib-27,1/2o/2i/3,0.0
+Inhib-27,1/2o/4,0.0
+Inhib-27,10,0.0
+Inhib-27,2i (3/4),0.0
+Inhib-27,2i/3,0.0
+Inhib-27,2i/3 (1-4),0.0
+Inhib-27,2i/3/4,0.0
+Inhib-27,3 (1-4),0.0
+Inhib-27,3 (1-5),0.0
+Inhib-27,3/4,0.0
+Inhib-27,3/4 (1/2o),0.0
+Inhib-27,4,0.0
+Inhib-27,4/5,0.0
+Inhib-27,4/5/6,0.0
+Inhib-27,4/lat 5,0.0
+Inhib-27,4/med 5,0.0
+Inhib-27,5,0.0
+Inhib-27,5/6,0.0
+Inhib-27,6/7/8,0.0
+Inhib-27,7,1.0
+Inhib-27,7-IML,0.0
+Inhib-27,7/8,0.0
+Inhib-27,9,0.0
+Inhib-27,N/A,0.0
+Inhib-27,med 5,0.0
+MN-alpha,1-4,0.0
+MN-alpha,1/2,0.0
+MN-alpha,1/2/3,0.0
+MN-alpha,1/2o,0.0
+MN-alpha,1/2o (2i-4),0.0
+MN-alpha,1/2o (2i/3),0.0
+MN-alpha,1/2o (3),0.0
+MN-alpha,1/2o/2i,0.0
+MN-alpha,1/2o/2i/3,0.0
+MN-alpha,1/2o/4,0.0
+MN-alpha,10,0.0
+MN-alpha,2i (3/4),0.0
+MN-alpha,2i/3,0.0
+MN-alpha,2i/3 (1-4),0.0
+MN-alpha,2i/3/4,0.0
+MN-alpha,3 (1-4),0.0
+MN-alpha,3 (1-5),0.0
+MN-alpha,3/4,0.0
+MN-alpha,3/4 (1/2o),0.0
+MN-alpha,4,0.0
+MN-alpha,4/5,0.0
+MN-alpha,4/5/6,0.0
+MN-alpha,4/lat 5,0.0
+MN-alpha,4/med 5,0.0
+MN-alpha,5,0.0
+MN-alpha,5/6,0.0
+MN-alpha,6/7/8,0.0
+MN-alpha,7,0.0
+MN-alpha,7-IML,0.0
+MN-alpha,7/8,0.0
+MN-alpha,9,1.0
+MN-alpha,N/A,0.0
+MN-alpha,med 5,0.0
+MN-gamma,1-4,0.0
+MN-gamma,1/2,0.0
+MN-gamma,1/2/3,0.0
+MN-gamma,1/2o,0.0
+MN-gamma,1/2o (2i-4),0.0
+MN-gamma,1/2o (2i/3),0.0
+MN-gamma,1/2o (3),0.0
+MN-gamma,1/2o/2i,0.0
+MN-gamma,1/2o/2i/3,0.0
+MN-gamma,1/2o/4,0.0
+MN-gamma,10,0.0
+MN-gamma,2i (3/4),0.0
+MN-gamma,2i/3,0.0
+MN-gamma,2i/3 (1-4),0.0
+MN-gamma,2i/3/4,0.0
+MN-gamma,3 (1-4),0.0
+MN-gamma,3 (1-5),0.0
+MN-gamma,3/4,0.0
+MN-gamma,3/4 (1/2o),0.0
+MN-gamma,4,0.0
+MN-gamma,4/5,0.0
+MN-gamma,4/5/6,0.0
+MN-gamma,4/lat 5,0.0
+MN-gamma,4/med 5,0.0
+MN-gamma,5,0.0
+MN-gamma,5/6,0.0
+MN-gamma,6/7/8,0.0
+MN-gamma,7,0.0
+MN-gamma,7-IML,0.0
+MN-gamma,7/8,0.0
+MN-gamma,9,1.0
+MN-gamma,N/A,0.0
+MN-gamma,med 5,0.0
+PGC,1-4,0.0
+PGC,1/2,0.0
+PGC,1/2/3,0.0
+PGC,1/2o,0.0
+PGC,1/2o (2i-4),0.0
+PGC,1/2o (2i/3),0.0
+PGC,1/2o (3),0.0
+PGC,1/2o/2i,0.0
+PGC,1/2o/2i/3,0.0
+PGC,1/2o/4,0.0
+PGC,10,0.0
+PGC,2i (3/4),0.0
+PGC,2i/3,0.0
+PGC,2i/3 (1-4),0.0
+PGC,2i/3/4,0.0
+PGC,3 (1-4),0.0
+PGC,3 (1-5),0.0
+PGC,3/4,0.0
+PGC,3/4 (1/2o),0.0
+PGC,4,0.0
+PGC,4/5,0.0
+PGC,4/5/6,0.0
+PGC,4/lat 5,0.0
+PGC,4/med 5,0.0
+PGC,5,0.0
+PGC,5/6,0.0
+PGC,6/7/8,0.0
+PGC,7,0.0
+PGC,7-IML,1.0
+PGC,7/8,0.0
+PGC,9,0.0
+PGC,N/A,0.0
+PGC,med 5,0.0

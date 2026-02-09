@@ -1,0 +1,14 @@
+ligand,receptor,signal_level,modality,pathway
+Nppb,Npr1,peptide,itch,NPPB
+Grp,Grpr,peptide,itch,GRP
+Tac1,Tacr1,peptide,pain,SubstanceP
+Calca,Calcrl,peptide,pain,CGRP
+Calca,Ramp1,peptide,pain,CGRP
+Adcyap1,Adcyap1r1,peptide,pain,PACAP
+Penk,Oprd1,modulatory,shared,Opioid
+Penk,Oprm1,modulatory,shared,Opioid
+Pdyn,Oprk1,modulatory,shared,Opioid
+Sst,Sstr1,modulatory,shared,SST
+Sst,Sstr2,modulatory,shared,SST
+Gal,Galr1,modulatory,shared,Galanin
+Gal,Galr2,modulatory,shared,Galanin
