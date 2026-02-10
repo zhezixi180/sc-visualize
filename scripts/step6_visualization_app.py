@@ -175,6 +175,10 @@ def build_sc_to_lamina_edges(drg_sc: pd.DataFrame, layer_dist: pd.DataFrame | No
         return pd.DataFrame()
 
     merged = layer_dist.merge(inflow, on="cell_type", how="inner")
+
+        # ✅ 去掉缺失层信息（NaN 或字符串 nan）
+    merged = merged[merged["layer"].notna()]
+    merged = merged[merged["layer"].astype(str).str.strip().str.lower() != "nan"]
     
     # 流量分配: 该层的流量 = 总流入量 * 该层出现的频率
     merged["value"] = merged["inflow"] * merged["freq"]
